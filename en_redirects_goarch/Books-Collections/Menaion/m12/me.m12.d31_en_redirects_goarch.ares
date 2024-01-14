@@ -1,0 +1,22 @@
+A_Resource_Whose_Name = me.m12.d31_en_redirects_goarch
+
+meDA.date = me.m12.d31_en_US_dedes.meDA.date // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = me.m12.d31_en_US_dedes.meDA.commemoration.full // full title of day
+meDA.commemoration.first = me.m12.d31_en_US_dedes.meDA.commemoration.first
+meDA.commemoration.first_short = me.m12.d31_en_US_dedes.meDA.commemoration.first_short
+meDA.commemoration.first_title = me.m12.d31_en_US_dedes.meDA.commemoration.first_title
+meDA.commemoration.first_name = me.m12.d31_en_US_dedes.meDA.commemoration.first_name
+meDA.commemoration.second_title = me.m12.d31_en_US_dedes.meDA.commemoration.second_title
+meDA.commemoration.second_name = me.m12.d31_en_US_dedes.meDA.commemoration.second_name
+meDA.insert1 = me.m12.d31_en_US_dedes.meDA.insert1 // for use in petitions and dismissal
+meDA.insert2 = me.m12.d31_en_US_dedes.meDA.insert2 // for use in petitions and dismissal
+meDA.note = me.m12.d31_en_US_dedes.meDA.note
+meLE.commemoration1 = me.m12.d31_en_US_dedes.meLE.commemoration1
+meLE.commemoration2 = me.m12.d31_en_US_dedes.meLE.commemoration2
+meHO.number = me.m12.d31_en_US_dedes.meHO.number
+meHO.rank = me.m12.d31_en_US_dedes.meHO.rank
+meHO.commemorations = me.m12.d31_en_US_dedes.meHO.commemorations
+meHO.note1 = me.m12.d31_en_US_dedes.meHO.note1
+meHO.note2 = me.m12.d31_en_US_dedes.meHO.note2
+meDA.dismissal = me.m12.d31_en_US_dedes.meDA.dismissal
+
