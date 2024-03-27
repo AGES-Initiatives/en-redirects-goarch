@@ -1,0 +1,386 @@
+A_Resource_Whose_Name = website.index.titles_en_redirects_goarch
+
+// languages
+lang.gr = website.index.titles_en_US_goarch.lang.gr
+lang.en = website.index.titles_en_US_goarch.lang.en
+lang.swh = website.index.titles_en_US_goarch.lang.swh
+lang.kik = website.index.titles_en_US_goarch.lang.kik
+lang.delimiter = website.index.titles_en_US_goarch.lang.delimiter
+
+// filetypes
+file.type.html = website.index.titles_en_US_goarch.file.type.html
+file.type.pdf = website.index.titles_en_US_goarch.file.type.pdf
+//file.type.html = website.index.titles_en_US_goarch.//file.type.html
+//file.type.pdf = website.index.titles_en_US_goarch.//file.type.pdf
+file.type.epub = website.index.titles_en_US_goarch.file.type.epub
+
+// Services index (p.1) for years and months
+index.title = website.index.titles_en_US_goarch.index.title
+index.description1 = website.index.titles_en_US_goarch.index.description1
+index.description2 = website.index.titles_en_US_goarch.index.description2
+index.description3 = website.index.titles_en_US_goarch.index.description3
+//You can have any number of index.descriptions, e.g.
+//index.description4 = website.index.titles_en_US_goarch.//index.description4
+
+// index for specific day
+index.day.title = website.index.titles_en_US_goarch.index.day.title
+index.day.title2.date.prefix = website.index.titles_en_US_goarch.index.day.title2.date.prefix
+index.day.date.format = website.index.titles_en_US_goarch.index.day.date.format
+index.day.title2.date.suffix = website.index.titles_en_US_goarch.index.day.title2.date.suffix
+index.day.description1 = website.index.titles_en_US_goarch.index.day.description1
+index.day.description2 = website.index.titles_en_US_goarch.index.day.description2
+//index.day.description3 = website.index.titles_en_US_goarch.//index.day.description3
+//You can have any number of index.day.descriptions, e.g.
+//index.day.description4 = website.index.titles_en_US_goarch.//index.day.description4
+
+// index for books
+index.books.title = website.index.titles_en_US_goarch.index.books.title
+index.books.description1 = website.index.titles_en_US_goarch.index.books.description1
+index.books.description2 = website.index.titles_en_US_goarch.index.books.description2
+//index.books.description3 = website.index.titles_en_US_goarch.//index.books.description3
+//You can have any number of index.books.descriptions, e.g.
+//index.books.description4 = website.index.titles_en_US_goarch.//index.books.description4
+
+// index for custom content
+index.custom.title = website.index.titles_en_US_goarch.index.custom.title
+index.custom.description1 = website.index.titles_en_US_goarch.index.custom.description1
+index.custom.description2 = website.index.titles_en_US_goarch.index.custom.description2
+//index.custom.description3 = website.index.titles_en_US_goarch.//index.custom.description3
+//You can have any number of index.custom.descriptions, e.g.
+//index.custom.description4 = website.index.titles_en_US_goarch.//index.custom.description4
+
+ 
+// index titles
+ak.html.link = website.index.titles_en_US_goarch.ak.html.link
+co.html.link = website.index.titles_en_US_goarch.co.html.link
+co1.html.link = website.index.titles_en_US_goarch.co1.html.link
+//co2.html.link = website.index.titles_en_US_goarch.//co2.html.link
+//co3.html.link= "Small Compline and Akathist Hymn"
+//co4.html.link= "Small Compline and Great Canon"
+co5.html.link= "Pre-Resurrection Service - Abridged"
+co6.html.link= "Paschal Compline"
+co7.html.link = website.index.titles_en_US_goarch.co7.html.link
+
+consecration_relics.html.link = website.index.titles_en_US_goarch.consecration_relics.html.link
+consecration_vespers.html.link = website.index.titles_en_US_goarch.consecration_vespers.html.link
+consecration_liturgy.html.link = website.index.titles_en_US_goarch.consecration_liturgy.html.link
+unction.html.link = website.index.titles_en_US_goarch.unction.html.link
+baptism.html.link = website.index.titles_en_US_goarch.baptism.html.link
+funeral.html.link = website.index.titles_en_US_goarch.funeral.html.link
+memorial.html.link = website.index.titles_en_US_goarch.memorial.html.link
+wedding.html.link = website.index.titles_en_US_goarch.wedding.html.link
+lichrysbasil.html.link = website.index.titles_en_US_goarch.lichrysbasil.html.link
+presanctified.html.link = website.index.titles_en_US_goarch.presanctified.html.link
+
+em.html.link = website.index.titles_en_US_goarch.em.html.link
+em3.html.link = website.index.titles_en_US_goarch.em3.html.link
+
+gh.html.link = website.index.titles_en_US_goarch.gh.html.link
+gw.html.link = website.index.titles_en_US_goarch.gw.html.link
+
+h1.html.link = website.index.titles_en_US_goarch.h1.html.link
+h12.html.link = website.index.titles_en_US_goarch.h12.html.link
+h13.html.link = website.index.titles_en_US_goarch.h13.html.link
+h18.html.link = website.index.titles_en_US_goarch.h18.html.link
+
+h3.html.link = website.index.titles_en_US_goarch.h3.html.link
+h36.html.link = website.index.titles_en_US_goarch.h36.html.link
+
+h6.html.link = website.index.titles_en_US_goarch.h6.html.link
+h61.html.link = website.index.titles_en_US_goarch.h61.html.link
+
+h9.html.link = website.index.titles_en_US_goarch.h9.html.link
+h91.html.link = website.index.titles_en_US_goarch.h91.html.link
+h92.html.link = website.index.titles_en_US_goarch.h92.html.link
+h98.html.link = website.index.titles_en_US_goarch.h98.html.link
+
+li.html.link = website.index.titles_en_US_goarch.li.html.link
+li1.html.link = website.index.titles_en_US_goarch.li1.html.link
+li2.html.link = website.index.titles_en_US_goarch.li2.html.link
+li3.html.link = website.index.titles_en_US_goarch.li3.html.link
+li4.html.link = website.index.titles_en_US_goarch.li4.html.link
+li5.html.link = website.index.titles_en_US_goarch.li5.html.link
+li6.html.link = website.index.titles_en_US_goarch.li6.html.link
+li7.html.link = website.index.titles_en_US_goarch.li7.html.link
+li8.html.link = website.index.titles_en_US_goarch.li8.html.link
+li9.html.link = website.index.titles_en_US_goarch.li9.html.link
+
+ma.html.link = website.index.titles_en_US_goarch.ma.html.link
+ma1.html.link = website.index.titles_en_US_goarch.ma1.html.link
+ma2.html.link = website.index.titles_en_US_goarch.ma2.html.link
+ma3.html.link = website.index.titles_en_US_goarch.ma3.html.link
+ma4.html.link = website.index.titles_en_US_goarch.ma4.html.link
+ma5.html.link = website.index.titles_en_US_goarch.ma5.html.link
+ma6.html.link = website.index.titles_en_US_goarch.ma6.html.link
+ma7.html.link = website.index.titles_en_US_goarch.ma7.html.link
+ma8.html.link = website.index.titles_en_US_goarch.ma8.html.link
+ma9.html.link = website.index.titles_en_US_goarch.ma9.html.link
+
+mo.html.link = website.index.titles_en_US_goarch.mo.html.link
+mo1.html.link = website.index.titles_en_US_goarch.mo1.html.link
+mo5.html.link = website.index.titles_en_US_goarch.mo5.html.link
+
+pl.html.link = website.index.titles_en_US_goarch.pl.html.link
+pl1.html.link = website.index.titles_en_US_goarch.pl1.html.link
+pl2.html.link = website.index.titles_en_US_goarch.pl2.html.link
+pl3.html.link = website.index.titles_en_US_goarch.pl3.html.link
+
+sv.html.link = website.index.titles_en_US_goarch.sv.html.link
+sv3.html.link = website.index.titles_en_US_goarch.sv3.html.link
+
+te.html.link = website.index.titles_en_US_goarch.te.html.link
+
+ve.html.link = website.index.titles_en_US_goarch.ve.html.link
+ve1.html.link = website.index.titles_en_US_goarch.ve1.html.link
+ve2.html.link = website.index.titles_en_US_goarch.ve2.html.link
+ve3.html.link = website.index.titles_en_US_goarch.ve3.html.link
+ve4.html.link = website.index.titles_en_US_goarch.ve4.html.link
+ve5.html.link = website.index.titles_en_US_goarch.ve5.html.link
+ve6.html.link = website.index.titles_en_US_goarch.ve6.html.link
+ve7.html.link = website.index.titles_en_US_goarch.ve7.html.link
+ve8.html.link = website.index.titles_en_US_goarch.ve8.html.link
+ve9.html.link = website.index.titles_en_US_goarch.ve9.html.link
+
+vl.html.link = website.index.titles_en_US_goarch.vl.html.link
+vl2.html.link = website.index.titles_en_US_goarch.vl2.html.link
+
+//index types
+se.html.link = website.index.titles_en_US_goarch.se.html.link
+bk.html.link = website.index.titles_en_US_goarch.bk.html.link
+cu.html.link = website.index.titles_en_US_goarch.cu.html.link
+
+//books - collections
+eo.html.link = website.index.titles_en_US_goarch.eo.html.link
+ep.html.link = website.index.titles_en_US_goarch.ep.html.link
+eu.html.link = website.index.titles_en_US_goarch.eu.html.link
+go.html.link = website.index.titles_en_US_goarch.go.html.link
+he.html.link = website.index.titles_en_US_goarch.he.html.link
+hi.html.link = website.index.titles_en_US_goarch.hi.html.link
+ho.html.link = website.index.titles_en_US_goarch.ho.html.link
+ka.html.link = website.index.titles_en_US_goarch.ka.html.link
+le.html.link = website.index.titles_en_US_goarch.le.html.link
+me.html.link = website.index.titles_en_US_goarch.me.html.link
+oc.html.link = website.index.titles_en_US_goarch.oc.html.link
+pe.html.link = website.index.titles_en_US_goarch.pe.html.link
+pr.html.link = website.index.titles_en_US_goarch.pr.html.link
+ps.html.link = website.index.titles_en_US_goarch.ps.html.link
+sy.html.link = website.index.titles_en_US_goarch.sy.html.link
+tr.html.link = website.index.titles_en_US_goarch.tr.html.link
+
+//sevice types
+gc.html.link = website.index.titles_en_US_goarch.gc.html.link
+sal.html.link = website.index.titles_en_US_goarch.sal.html.link
+ty.html.link = website.index.titles_en_US_goarch.ty.html.link
+ge.html.link = website.index.titles_en_US_goarch.ge.html.link
+
+// non-Greek services
+mol.html.link = website.index.titles_en_US_goarch.mol.html.link
+sla.html.link = website.index.titles_en_US_goarch.sla.html.link
+rds.html.link = website.index.titles_en_US_goarch.rds.html.link
+
+//periods
+adv.html.link = website.index.titles_en_US_goarch.adv.html.link
+trn.html.link = website.index.titles_en_US_goarch.trn.html.link
+lnt.html.link = website.index.titles_en_US_goarch.lnt.html.link
+hwk.html.link = website.index.titles_en_US_goarch.hwk.html.link
+pas.html.link = website.index.titles_en_US_goarch.pas.html.link
+prf.html.link = website.index.titles_en_US_goarch.prf.html.link
+aff.html.link = website.index.titles_en_US_goarch.aff.html.link
+lvt.html.link = website.index.titles_en_US_goarch.lvt.html.link
+
+//days
+sat.html.link = website.index.titles_en_US_goarch.sat.html.link
+sun.html.link = website.index.titles_en_US_goarch.sun.html.link
+wkd.html.link = website.index.titles_en_US_goarch.wkd.html.link
+
+//octoechos
+m_.html.link = website.index.titles_en_US_goarch.m_.html.link
+d__.html.link = website.index.titles_en_US_goarch.d__.html.link
+
+//menaion
+m__.html.link = website.index.titles_en_US_goarch.m__.html.link
+// d__.html.link = website.index.titles_en_US_goarch.// d__.html.link
+
+//triodion and pentecostarion
+d___.html.link = website.index.titles_en_US_goarch.d___.html.link
+
+//heirmologion
+a.html.link = website.index.titles_en_US_goarch.a.html.link
+h.html.link = website.index.titles_en_US_goarch.h.html.link
+// m.html.link = website.index.titles_en_US_goarch.// m.html.link
+ga.html.link = website.index.titles_en_US_goarch.ga.html.link
+k.html.link = website.index.titles_en_US_goarch.k.html.link
+o.html.link = website.index.titles_en_US_goarch.o.html.link
+
+//synaxarion
+// m__.html.link = website.index.titles_en_US_goarch.// m__.html.link
+// d__.html.link = website.index.titles_en_US_goarch.// d__.html.link
+
+//hieratikon
+hi00.html.link = website.index.titles_en_US_goarch.hi00.html.link
+hi01.html.link = website.index.titles_en_US_goarch.hi01.html.link
+hi02.html.link = website.index.titles_en_US_goarch.hi02.html.link
+hi03.html.link = website.index.titles_en_US_goarch.hi03.html.link
+hi04.html.link = website.index.titles_en_US_goarch.hi04.html.link
+hi05.html.link = website.index.titles_en_US_goarch.hi05.html.link
+hi06.html.link = website.index.titles_en_US_goarch.hi06.html.link
+hi07.html.link = website.index.titles_en_US_goarch.hi07.html.link
+hi08.html.link = website.index.titles_en_US_goarch.hi08.html.link
+hi09.html.link = website.index.titles_en_US_goarch.hi09.html.link
+hi10.html.link = website.index.titles_en_US_goarch.hi10.html.link
+hi11.html.link = website.index.titles_en_US_goarch.hi11.html.link
+hi12.html.link = website.index.titles_en_US_goarch.hi12.html.link
+hi13.html.link = website.index.titles_en_US_goarch.hi13.html.link
+hi14.html.link = website.index.titles_en_US_goarch.hi14.html.link
+hi15.html.link = website.index.titles_en_US_goarch.hi15.html.link
+hi16.html.link = website.index.titles_en_US_goarch.hi16.html.link
+hi17.html.link = website.index.titles_en_US_goarch.hi17.html.link
+
+//horologion
+ho01.html.link = website.index.titles_en_US_goarch.ho01.html.link
+ho02.html.link = website.index.titles_en_US_goarch.ho02.html.link
+ho03.html.link = website.index.titles_en_US_goarch.ho03.html.link
+ho04.html.link = website.index.titles_en_US_goarch.ho04.html.link
+ho05.html.link = website.index.titles_en_US_goarch.ho05.html.link
+ho06.html.link = website.index.titles_en_US_goarch.ho06.html.link
+ho07.html.link = website.index.titles_en_US_goarch.ho07.html.link
+ho08.html.link = website.index.titles_en_US_goarch.ho08.html.link
+ho09.html.link = website.index.titles_en_US_goarch.ho09.html.link
+ho10.html.link = website.index.titles_en_US_goarch.ho10.html.link
+ho11.html.link = website.index.titles_en_US_goarch.ho11.html.link
+ho12.html.link = website.index.titles_en_US_goarch.ho12.html.link
+ho13.html.link = website.index.titles_en_US_goarch.ho13.html.link
+ho14.html.link = website.index.titles_en_US_goarch.ho14.html.link
+ho15.html.link = website.index.titles_en_US_goarch.ho15.html.link
+ho16.html.link = website.index.titles_en_US_goarch.ho16.html.link
+ho17.html.link = website.index.titles_en_US_goarch.ho17.html.link
+ho18.html.link = website.index.titles_en_US_goarch.ho18.html.link
+ho19.html.link = website.index.titles_en_US_goarch.ho19.html.link
+ho20.html.link = website.index.titles_en_US_goarch.ho20.html.link
+ho21.html.link = website.index.titles_en_US_goarch.ho21.html.link
+ho22.html.link = website.index.titles_en_US_goarch.ho22.html.link
+ho23.html.link = website.index.titles_en_US_goarch.ho23.html.link
+ho24.html.link = website.index.titles_en_US_goarch.ho24.html.link
+ho25.html.link = website.index.titles_en_US_goarch.ho25.html.link
+ho26.html.link = website.index.titles_en_US_goarch.ho26.html.link
+ho27.html.link = website.index.titles_en_US_goarch.ho27.html.link
+ho28.html.link = website.index.titles_en_US_goarch.ho28.html.link
+ho29.html.link = website.index.titles_en_US_goarch.ho29.html.link
+
+//movable cycle day descriptors
+mc.d001 = website.index.titles_en_US_goarch.mc.d001
+mc.d008 = website.index.titles_en_US_goarch.mc.d008
+mc.d014 = website.index.titles_en_US_goarch.mc.d014
+mc.d015 = website.index.titles_en_US_goarch.mc.d015
+mc.d016 = website.index.titles_en_US_goarch.mc.d016
+mc.d017 = website.index.titles_en_US_goarch.mc.d017
+mc.d018 = website.index.titles_en_US_goarch.mc.d018
+mc.d019 = website.index.titles_en_US_goarch.mc.d019
+mc.d020 = website.index.titles_en_US_goarch.mc.d020
+mc.d021 = website.index.titles_en_US_goarch.mc.d021
+mc.d022 = website.index.titles_en_US_goarch.mc.d022
+mc.d023 = website.index.titles_en_US_goarch.mc.d023
+mc.d024 = website.index.titles_en_US_goarch.mc.d024
+mc.d025 = website.index.titles_en_US_goarch.mc.d025
+mc.d026 = website.index.titles_en_US_goarch.mc.d026
+mc.d027 = website.index.titles_en_US_goarch.mc.d027
+mc.d028 = website.index.titles_en_US_goarch.mc.d028
+mc.d029 = website.index.titles_en_US_goarch.mc.d029
+mc.d030 = website.index.titles_en_US_goarch.mc.d030
+mc.d031 = website.index.titles_en_US_goarch.mc.d031
+mc.d032 = website.index.titles_en_US_goarch.mc.d032
+mc.d033 = website.index.titles_en_US_goarch.mc.d033
+mc.d034 = website.index.titles_en_US_goarch.mc.d034
+mc.d035 = website.index.titles_en_US_goarch.mc.d035
+mc.d036 = website.index.titles_en_US_goarch.mc.d036
+mc.d037 = website.index.titles_en_US_goarch.mc.d037
+mc.d038 = website.index.titles_en_US_goarch.mc.d038
+mc.d039 = website.index.titles_en_US_goarch.mc.d039
+mc.d040 = website.index.titles_en_US_goarch.mc.d040
+mc.d041 = website.index.titles_en_US_goarch.mc.d041
+mc.d042 = website.index.titles_en_US_goarch.mc.d042
+mc.d043 = website.index.titles_en_US_goarch.mc.d043
+mc.d044 = website.index.titles_en_US_goarch.mc.d044
+mc.d045 = website.index.titles_en_US_goarch.mc.d045
+mc.d046 = website.index.titles_en_US_goarch.mc.d046
+mc.d047 = website.index.titles_en_US_goarch.mc.d047
+mc.d048 = website.index.titles_en_US_goarch.mc.d048
+mc.d049 = website.index.titles_en_US_goarch.mc.d049
+mc.d050 = website.index.titles_en_US_goarch.mc.d050
+mc.d051 = website.index.titles_en_US_goarch.mc.d051
+mc.d052 = website.index.titles_en_US_goarch.mc.d052
+mc.d053 = website.index.titles_en_US_goarch.mc.d053
+mc.d054 = website.index.titles_en_US_goarch.mc.d054
+mc.d055 = website.index.titles_en_US_goarch.mc.d055
+mc.d056 = website.index.titles_en_US_goarch.mc.d056
+mc.d057 = website.index.titles_en_US_goarch.mc.d057
+mc.d058 = website.index.titles_en_US_goarch.mc.d058
+mc.d059 = website.index.titles_en_US_goarch.mc.d059
+mc.d060 = website.index.titles_en_US_goarch.mc.d060
+mc.d061 = website.index.titles_en_US_goarch.mc.d061
+mc.d062 = website.index.titles_en_US_goarch.mc.d062
+mc.d063 = website.index.titles_en_US_goarch.mc.d063
+mc.d064 = website.index.titles_en_US_goarch.mc.d064
+mc.d065 = website.index.titles_en_US_goarch.mc.d065
+mc.d066 = website.index.titles_en_US_goarch.mc.d066
+mc.d067 = website.index.titles_en_US_goarch.mc.d067
+mc.d068 = website.index.titles_en_US_goarch.mc.d068
+mc.d069 = website.index.titles_en_US_goarch.mc.d069
+mc.d070 = website.index.titles_en_US_goarch.mc.d070
+mc.d071 = website.index.titles_en_US_goarch.mc.d071
+mc.d072 = website.index.titles_en_US_goarch.mc.d072
+mc.d073 = website.index.titles_en_US_goarch.mc.d073
+mc.d074 = website.index.titles_en_US_goarch.mc.d074
+mc.d075 = website.index.titles_en_US_goarch.mc.d075
+mc.d076 = website.index.titles_en_US_goarch.mc.d076
+mc.d077 = website.index.titles_en_US_goarch.mc.d077
+mc.d078 = website.index.titles_en_US_goarch.mc.d078
+mc.d079 = website.index.titles_en_US_goarch.mc.d079
+mc.d080 = website.index.titles_en_US_goarch.mc.d080
+mc.d081 = website.index.titles_en_US_goarch.mc.d081
+mc.d082 = website.index.titles_en_US_goarch.mc.d082
+mc.d083 = website.index.titles_en_US_goarch.mc.d083
+mc.d084 = website.index.titles_en_US_goarch.mc.d084
+mc.d085 = website.index.titles_en_US_goarch.mc.d085
+mc.d086 = website.index.titles_en_US_goarch.mc.d086
+mc.d087 = website.index.titles_en_US_goarch.mc.d087
+mc.d088 = website.index.titles_en_US_goarch.mc.d088
+mc.d089 = website.index.titles_en_US_goarch.mc.d089
+mc.d090 = website.index.titles_en_US_goarch.mc.d090
+mc.d091 = website.index.titles_en_US_goarch.mc.d091
+mc.d092 = website.index.titles_en_US_goarch.mc.d092
+mc.d093 = website.index.titles_en_US_goarch.mc.d093
+mc.d094 = website.index.titles_en_US_goarch.mc.d094
+mc.d095 = website.index.titles_en_US_goarch.mc.d095
+mc.d096 = website.index.titles_en_US_goarch.mc.d096
+mc.d097 = website.index.titles_en_US_goarch.mc.d097
+mc.d098 = website.index.titles_en_US_goarch.mc.d098
+mc.d099 = website.index.titles_en_US_goarch.mc.d099
+mc.d100 = website.index.titles_en_US_goarch.mc.d100
+mc.d101 = website.index.titles_en_US_goarch.mc.d101
+mc.d102 = website.index.titles_en_US_goarch.mc.d102
+mc.d103 = website.index.titles_en_US_goarch.mc.d103
+mc.d104 = website.index.titles_en_US_goarch.mc.d104
+mc.d105 = website.index.titles_en_US_goarch.mc.d105
+mc.d106 = website.index.titles_en_US_goarch.mc.d106
+mc.d107 = website.index.titles_en_US_goarch.mc.d107
+mc.d108 = website.index.titles_en_US_goarch.mc.d108
+mc.d109 = website.index.titles_en_US_goarch.mc.d109
+mc.d110 = website.index.titles_en_US_goarch.mc.d110
+mc.d111 = website.index.titles_en_US_goarch.mc.d111
+mc.d112 = website.index.titles_en_US_goarch.mc.d112
+mc.d113 = website.index.titles_en_US_goarch.mc.d113
+mc.d114 = website.index.titles_en_US_goarch.mc.d114
+mc.d115 = website.index.titles_en_US_goarch.mc.d115
+mc.d116 = website.index.titles_en_US_goarch.mc.d116
+mc.d117 = website.index.titles_en_US_goarch.mc.d117
+mc.d118 = website.index.titles_en_US_goarch.mc.d118
+mc.d119 = website.index.titles_en_US_goarch.mc.d119
+mc.d120 = website.index.titles_en_US_goarch.mc.d120
+mc.d121 = website.index.titles_en_US_goarch.mc.d121
+mc.d122 = website.index.titles_en_US_goarch.mc.d122
+mc.d123 = website.index.titles_en_US_goarch.mc.d123
+mc.d124 = website.index.titles_en_US_goarch.mc.d124
+mc.d125 = website.index.titles_en_US_goarch.mc.d125
+mc.d126 = website.index.titles_en_US_goarch.mc.d126
+mc.d127 = website.index.titles_en_US_goarch.mc.d127
