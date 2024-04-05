@@ -1602,8 +1602,8 @@ psLI.trisagionbaptized.v2.text = liturgical.verses_en_US_rsv.psLI.trisagionbapti
 psLI.trisagionbaptized.v3.text = liturgical.verses_en_US_rsv.psLI.trisagionbaptized.v3.text
 psLI.trisagionbaptized.v4.text = liturgical.verses_en_US_rsv.psLI.trisagionbaptized.v4.text
 
-psLI.hierarchical.trisagionblessing.v1.info = liturgical.verses_en_US_saas.psLI.hierarchical.trisagionblessing.v1.info
-psLI.hierarchical.trisagionblessing.v1.text = liturgical.verses_en_US_saas.psLI.hierarchical.trisagionblessing.v1.text
+psLI.hierarchical.trisagionblessing.v1.info = liturgical.verses_en_US_goa.psLI.hierarchical.trisagionblessing.v1.info
+psLI.hierarchical.trisagionblessing.v1.text = liturgical.verses_en_US_goa.psLI.hierarchical.trisagionblessing.v1.text
 
 psLI.concelebration.kisshymn.v1.info = liturgical.verses_en_US_saas.psLI.concelebration.kisshymn.v1.info
 psLI.concelebration.kisshymn.v1.text = liturgical.verses_en_US_saas.psLI.concelebration.kisshymn.v1.text
