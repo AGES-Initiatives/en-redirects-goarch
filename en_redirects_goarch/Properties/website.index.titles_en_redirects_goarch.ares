@@ -17,7 +17,7 @@ file.type.epub = website.index.titles_en_US_goarch.file.type.epub
 // Services index (p.1) for years and months
 index.title = website.index.titles_en_US_goarch.index.title
 index.description1 = website.index.titles_en_US_goarch.index.description1
-index.description2 = website.index.titles_en_US_goarch.index.description2
+index.description2 = website.index.titles_en_US_goarch.index.description2 
 index.description3 = website.index.titles_en_US_goarch.index.description3
 //You can have any number of index.descriptions, e.g.
 //index.description4 = website.index.titles_en_US_goarch.//index.description4
