@@ -1,7 +1,11 @@
 A_Resource_Whose_Name = other.stgerasimosofamerica1_en_redirects_goarch
 
-hoCA.title = other.stgerasimosofamerica1_en_US_goadedes.hoCA.title
+hoCA.title1 = other.stgerasimosofamerica1_en_US_goadedes.hoCA.title1
 hoCA.title2 = other.stgerasimosofamerica1_en_US_goadedes.hoCA.title2
+hoCA.title3 = other.stgerasimosofamerica1_en_US_goadedes.hoCA.title3
+hoCA.title4 = other.stgerasimosofamerica1_en_US_goadedes.hoCA.title4
+hoCA.title5 = other.stgerasimosofamerica1_en_US_goadedes.hoCA.title5
+hoCA.title6 = other.stgerasimosofamerica1_en_US_goadedes.hoCA.title6
 hoCA.poet = other.stgerasimosofamerica1_en_US_goadedes.hoCA.poet
 hoCA.translator = other.stgerasimosofamerica1_en_US_goadedes.hoCA.translator
 hoCA.Insert1 = other.stgerasimosofamerica1_en_US_goadedes.hoCA.Insert1
@@ -19,7 +23,9 @@ hoCA.Apolytikion2.melody = other.stgerasimosofamerica1_en_US_goadedes.hoCA.Apoly
 hoCA.Apolytikion2.incipit = other.stgerasimosofamerica1_en_US_goadedes.hoCA.Apolytikion2.incipit
 hoCA.Apolytikion2.text = other.stgerasimosofamerica1_en_US_goadedes.hoCA.Apolytikion2.text
 
-hoCA.acrostic = other.stgerasimosofamerica1_en_US_goadedes.hoCA.acrostic
+hoCA.acrostic.title = other.stgerasimosofamerica1_en_US_goadedes.hoCA.acrostic.title
+hoCA.acrostic.notice1 = other.stgerasimosofamerica1_en_US_goadedes.hoCA.acrostic.notice1
+hoCA.acrostic.text = other.stgerasimosofamerica1_en_US_goadedes.hoCA.acrostic.text
 hoCA.verse = other.stgerasimosofamerica1_en_US_goadedes.hoCA.verse
 
 hoCA.Ode11.ode = other.stgerasimosofamerica1_en_US_goadedes.hoCA.Ode11.ode

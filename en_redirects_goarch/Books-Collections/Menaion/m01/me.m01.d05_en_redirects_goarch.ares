@@ -1069,6 +1069,8 @@ meLI.Megalynarion.text = me.m01.d05_en_US_dedes.meLI.Megalynarion.text
 
 meH.title = me.m01.d05_en_US_dedes.meH.title
 meH.translation = me.m01.d05_en_US_dedes.meH.translation
+meHR.title = me.m01.d05_en_US_dedes.meHR.title
+meHR.translation = me.m01.d05_en_US_dedes.meHR.translation
 meH1.title = me.m01.d05_en_US_dedes.meH1.title
 meH1.Troparion.incipit = me.m01.d05_en_US_dedes.meH1.Troparion.incipit
 meH1.Troparion.text = me.m01.d05_en_US_dedes.meH1.Troparion.text
