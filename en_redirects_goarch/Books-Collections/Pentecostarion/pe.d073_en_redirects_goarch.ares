@@ -80,7 +80,8 @@ peMA.Lauds4.melody = pe.d073_en_US_goadedes.peMA.Lauds4.melody
 peMA.Lauds4.incipit = pe.d073_en_US_goadedes.peMA.Lauds4.incipit
 peMA.Lauds4.text = pe.d073_en_US_goadedes.peMA.Lauds4.text
 
-peMA.MM.Lauds1234as1234.text = pe.d073_en_US_dedes.peMA.MM.Lauds1234as1234.text
+peMA.MM.Lauds123as123.text = pe.d073_en_US_goadedes.peMA.MM.Lauds123as123.text
+peMA.MM.Lauds1234as1234.text = pe.d073_en_US_goadedes.peMA.MM.Lauds1234as1234.text
 
 alt1.peDA.commemoration.full = pe.d073_en_US_dedes.alt1.peDA.commemoration.full
 alt1.peDA.commemoration.short = pe.d073_en_US_dedes.alt1.peDA.commemoration.short
