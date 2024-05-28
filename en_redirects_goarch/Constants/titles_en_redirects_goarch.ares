@@ -40,6 +40,7 @@ ti.Apolytikia = titles_en_US_dedes.ti.Apolytikia
 ti.Apolytikion = titles_en_US_dedes.ti.Apolytikion
 ti.ApolytikionDay = titles_en_US_dedes.ti.ApolytikionDay
 ti.ApolytikionFeast = titles_en_US_dedes.ti.ApolytikionFeast
+ti.ApolytikionLocalChurch = titles_en_US_goadedes.ti.ApolytikionLocalChurch
 ti.ApolytikionResurrectional = titles_en_US_dedes.ti.ApolytikionResurrectional
 ti.ApolytikionTriodion = titles_en_US_dedes.ti.ApolytikionTriodion
 ti.Aposticha = titles_en_US_dedes.ti.Aposticha
