@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = da.d7_en_redirects_goarch
 
 daDay.text = da.d7_en_US_dedes.daDay.text
+daOnDay.text = da.d7_en_US_dedes.daOnDay.text
 daCommemoration.text = da.d7_en_US_dedes.daCommemoration.text
 
 daVE.OnTheAfternoonBefore.text = da.d7_en_US_dedes.daVE.OnTheAfternoonBefore.text
