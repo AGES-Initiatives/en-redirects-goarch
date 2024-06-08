@@ -1,9 +1,11 @@
 A_Resource_Whose_Name = da.d2_en_redirects_goarch
 
 daDay.text = da.d2_en_US_dedes.daDay.text
+daForDay.text = da.d2_en_US_dedes.daForDay.text
 daOnDay.text = da.d2_en_US_dedes.daOnDay.text
 daCommemoration.text = da.d2_en_US_dedes.daCommemoration.text
 
+daVE.OnTheDayBefore.text = da.d2_en_US_dedes.daVE.OnTheDayBefore.text
 daVE.OnTheEveningBefore.text = da.d2_en_US_dedes.daVE.OnTheEveningBefore.text
 
 daVE.Apolytikion1.mode = da.d2_en_US_dedes.daVE.Apolytikion1.mode
