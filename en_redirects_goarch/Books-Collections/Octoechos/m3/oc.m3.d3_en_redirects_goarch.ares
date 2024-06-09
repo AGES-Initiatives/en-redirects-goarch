@@ -62,10 +62,10 @@ ocVE.AposTheotokion.melody = oc.m3.d3_en_US_dedes.ocVE.AposTheotokion.melody
 ocVE.AposTheotokion.incipit = oc.m3.d3_en_US_dedes.ocVE.AposTheotokion.incipit
 ocVE.AposTheotokion.text = oc.m3.d3_en_US_dedes.ocVE.AposTheotokion.text
 
-ocVE.ApolTheotokionVM.mode = oc.m3.d3_en_US_dedes.ocVE.ApolTheotokionVM.mode
-ocVE.ApolTheotokionVM.melody = oc.m3.d3_en_US_dedes.ocVE.ApolTheotokionVM.melody
-ocVE.ApolTheotokionVM.incipit = oc.m3.d3_en_US_dedes.ocVE.ApolTheotokionVM.incipit
-ocVE.ApolTheotokionVM.text = oc.m3.d3_en_US_dedes.ocVE.ApolTheotokionVM.text
+ocVE.ApolTheotokionVM.mode = oc.m3.d3_en_US_goadedes.ocVE.ApolTheotokionVM.mode
+ocVE.ApolTheotokionVM.melody = oc.m3.d3_en_US_goadedes.ocVE.ApolTheotokionVM.melody
+ocVE.ApolTheotokionVM.incipit = oc.m3.d3_en_US_goadedes.ocVE.ApolTheotokionVM.incipit
+ocVE.ApolTheotokionVM.text = oc.m3.d3_en_US_goadedes.ocVE.ApolTheotokionVM.text
 
 ocMA.Kathisma11.mode = oc.m3.d3_en_US_dedes.ocMA.Kathisma11.mode
 ocMA.Kathisma11.melody = oc.m3.d3_en_US_dedes.ocMA.Kathisma11.melody
@@ -698,10 +698,10 @@ octrMA.Kathisma12.melody = oc.m3.d3_en_US_dedes.octrMA.Kathisma12.melody
 octrMA.Kathisma12.incipit = oc.m3.d3_en_US_dedes.octrMA.Kathisma12.incipit
 octrMA.Kathisma12.text = oc.m3.d3_en_US_dedes.octrMA.Kathisma12.text
 
-octrMA.Kathisma1T.mode = oc.m3.d3_en_US_dedes.octrMA.Kathisma1T.mode
-octrMA.Kathisma1T.melody = oc.m3.d3_en_US_dedes.octrMA.Kathisma1T.melody
-octrMA.Kathisma1T.incipit = oc.m3.d3_en_US_dedes.octrMA.Kathisma1T.incipit
-octrMA.Kathisma1T.text = oc.m3.d3_en_US_dedes.octrMA.Kathisma1T.text
+octrMA.Kathisma1T.mode = oc.m3.d3_en_US_goadedes.octrMA.Kathisma1T.mode
+octrMA.Kathisma1T.melody = oc.m3.d3_en_US_goadedes.octrMA.Kathisma1T.melody
+octrMA.Kathisma1T.incipit = oc.m3.d3_en_US_goadedes.octrMA.Kathisma1T.incipit
+octrMA.Kathisma1T.text = oc.m3.d3_en_US_goadedes.octrMA.Kathisma1T.text
 
 octrMA.Ode7Martyricon.mode = oc.m3.d3_en_US_dedes.octrMA.Ode7Martyricon.mode
 octrMA.Ode7Martyricon.melody = oc.m3.d3_en_US_dedes.octrMA.Ode7Martyricon.melody
