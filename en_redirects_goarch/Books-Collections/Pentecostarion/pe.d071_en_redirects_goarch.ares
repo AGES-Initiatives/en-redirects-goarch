@@ -484,9 +484,11 @@ peMA.Stichera4.mode = pe.d071_en_US_dedes.peMA.Stichera4.mode
 peMA.Stichera4.incipit = pe.d071_en_US_dedes.peMA.Stichera4.incipit
 peMA.Stichera4.text = pe.d071_en_US_dedes.peMA.Stichera4.text
 
-peMA.SticheraGlory.mode = pe.d071_en_US_dedes.peMA.SticheraGlory.mode
-peMA.SticheraGlory.incipit = pe.d071_en_US_dedes.peMA.SticheraGlory.incipit
-peMA.SticheraGlory.text = pe.d071_en_US_dedes.peMA.SticheraGlory.text
+peMA.PaschaDoxastikon.note = pe.d071_en_US_goadedes.peMA.PaschaDoxastikon.note
+
+peMA.SticheraGlory.mode = pe.d071_en_US_goadedes.peMA.SticheraGlory.mode
+peMA.SticheraGlory.incipit = pe.d071_en_US_goadedes.peMA.SticheraGlory.incipit
+peMA.SticheraGlory.text = pe.d071_en_US_goadedes.peMA.SticheraGlory.text
 
 peMA.Homily.title = pe.d071_en_US_dedes.peMA.Homily.title
 peMA.Homily.text = pe.d071_en_US_dedes.peMA.Homily.text
