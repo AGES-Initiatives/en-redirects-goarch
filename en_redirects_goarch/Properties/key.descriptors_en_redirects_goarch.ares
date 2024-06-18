@@ -511,8 +511,8 @@ meCO.Ode9C23.desc = key.descriptors_en_US_goadedes.meCO.Ode9C23.desc
 meCO.Ode9C24.desc = key.descriptors_en_US_goadedes.meCO.Ode9C24.desc
 meCO.Ode9C2H.desc = key.descriptors_en_US_goadedes.meCO.Ode9C2H.desc
 //for Great Hours
-meH.title = "This key is deprecated"
-meH.translation = "This key is deprecated"
+meH.title = key.descriptors_en_US_goadedes.meH.title
+meH.translation = key.descriptors_en_US_goadedes.meH.translation
 meHR.title = key.descriptors_en_US_goadedes.meHR.title
 meHR.translation = key.descriptors_en_US_goadedes.meHR.translation
 meH1.title = key.descriptors_en_US_goadedes.meH1.title

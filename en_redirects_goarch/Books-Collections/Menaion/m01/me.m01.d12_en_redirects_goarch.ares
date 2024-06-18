@@ -371,10 +371,5 @@ meMA.AposGlory.melody = me.m01.d12_en_US_oca.meMA.AposGlory.melody
 meMA.AposGlory.incipit = me.m01.d12_en_US_oca.meMA.AposGlory.incipit
 meMA.AposGlory.text = me.m01.d12_en_US_oca.meMA.AposGlory.text
 
-meLI.Kontakion1.mode =
-meLI.Kontakion1.melody =
-meLI.Kontakion1.incipit = "…"
-meLI.Kontakion1.text =
-
 meLI.Megalynarion.text = me.m01.d12_en_US_dedes.meLI.Megalynarion.text
 

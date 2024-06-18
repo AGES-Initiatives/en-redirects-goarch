@@ -57,8 +57,8 @@ co1.html.link = website.index.titles_en_US_goarch.co1.html.link
 //co2.html.link = website.index.titles_en_US_goarch.//co2.html.link
 //co3.html.link= "Small Compline and Akathist Hymn"
 //co4.html.link= "Small Compline and Great Canon"
-co5.html.link= "Pre-Resurrection Service - Abridged"
-co6.html.link= "Paschal Compline"
+co5.html.link= website.index.titles_en_US_goarch.co5.html.link
+co6.html.link= website.index.titles_en_US_goarch.co6.html.link
 co7.html.link = website.index.titles_en_US_goarch.co7.html.link
 
 consecration_relics.html.link = website.index.titles_en_US_goarch.consecration_relics.html.link
