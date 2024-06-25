@@ -77,11 +77,11 @@ meVE.Aposticha3.melody = me.m01.d12_en_US_oca.meVE.Aposticha3.melody
 meVE.Aposticha3.incipit = me.m01.d12_en_US_oca.meVE.Aposticha3.incipit
 meVE.Aposticha3.text = me.m01.d12_en_US_oca.meVE.Aposticha3.text
 
-meVE.AposGlory.poet = me.m01.d12_en_US_dedes.meVE.AposGlory.poet
-meVE.AposGlory.mode = me.m01.d12_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m01.d12_en_US_dedes.meVE.AposGlory.melody
-meVE.AposGlory.incipit = me.m01.d12_en_US_dedes.meVE.AposGlory.incipit
-meVE.AposGlory.text = me.m01.d12_en_US_dedes.meVE.AposGlory.text
+meVE.AposGlory.poet = me.m01.d12_en_US_goadedes.meVE.AposGlory.poet
+meVE.AposGlory.mode = me.m01.d12_en_US_goadedes.meVE.AposGlory.mode
+meVE.AposGlory.melody = me.m01.d12_en_US_goadedes.meVE.AposGlory.melody
+meVE.AposGlory.incipit = me.m01.d12_en_US_goadedes.meVE.AposGlory.incipit
+meVE.AposGlory.text = me.m01.d12_en_US_goadedes.meVE.AposGlory.text
 
 meMA.Kathisma11.mode = me.m01.d12_en_US_dedes.meMA.Kathisma11.mode
 meMA.Kathisma11.greekmelody = me.m01.d12_en_US_dedes.meMA.Kathisma11.greekmelody
