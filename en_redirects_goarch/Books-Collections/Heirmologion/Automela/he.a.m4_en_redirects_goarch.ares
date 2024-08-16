@@ -16,12 +16,12 @@ heAU.EdokasSimeiosin.name = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
 heAU.EdokasSimeiosin.incipit = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.incipit
 heAU.EdokasSimeiosin.text = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.text
 
-heAU.EpefanisSimeron.greekname = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.greekname
-heAU.EpefanisSimeron.mode = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.mode
-heAU.EpefanisSimeron.notmetered = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.notmetered
-heAU.EpefanisSimeron.name = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.name
-heAU.EpefanisSimeron.incipit = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.incipit
-heAU.EpefanisSimeron.text = he.a.m4_en_US_dedes.heAU.EpefanisSimeron.text
+heAU.EpefanisSimeron.greekname = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
+heAU.EpefanisSimeron.mode = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.mode
+heAU.EpefanisSimeron.notmetered = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.notmetered
+heAU.EpefanisSimeron.name = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
+heAU.EpefanisSimeron.incipit = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.incipit
+heAU.EpefanisSimeron.text = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.text
 
 heAU.IthelonDakrysinExaleipsai.greekname = he.a.m4_en_US_dedes.heAU.IthelonDakrysinExaleipsai.greekname
 heAU.IthelonDakrysinExaleipsai.mode = he.a.m4_en_US_dedes.heAU.IthelonDakrysinExaleipsai.mode
