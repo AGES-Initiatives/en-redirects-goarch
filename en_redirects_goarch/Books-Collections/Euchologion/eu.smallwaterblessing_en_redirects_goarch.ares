@@ -226,16 +226,20 @@ euSWB.Key0304.mode = eu.smallwaterblessing_en_US_dedes.euSWB.Key0304.mode
 euSWB.Key0304.incipit = eu.smallwaterblessing_en_US_dedes.euSWB.Key0304.incipit
 euSWB.Key0304.text = eu.smallwaterblessing_en_US_dedes.euSWB.Key0304.text
 
-euSWB.R401 = eu.smallwaterblessing_en_US_dedes.euSWB.R401
-euSWB.Key0401a.text = eu.smallwaterblessing_en_US_holycross.euSWB.Key0401a.text
-euSWB.Key0401b.text = eu.smallwaterblessing_en_US_holycross.euSWB.Key0401b.text
-euSWB.Key0402.text = eu.smallwaterblessing_en_US_holycross.euSWB.Key0402.text
-euSWB.Key0403.text = eu.smallwaterblessing_en_US_holycross.euSWB.Key0403.text
-euSWB.Key0404.text = eu.smallwaterblessing_en_US_holycross.euSWB.Key0404.text
-euSWB.Key0405.text = eu.smallwaterblessing_en_US_holycross.euSWB.Key0405.text
+euSWB.R401 = eu.smallwaterblessing_en_US_goadedes.euSWB.R401
+euSWB.Key0401a.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0401a.text
+euSWB.Key0401b.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0401b.text
+euSWB.Key0402.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0402.text
+euSWB.Key0403.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0403.text
+euSWB.Key0404.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0404.text
+euSWB.Key0405.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0405.text
 
-euSWB.R501 = eu.smallwaterblessing_en_US_dedes.euSWB.R501
-euSWB.Key0501.text = eu.smallwaterblessing_en_US_dedes.euSWB.Key0501.text
+euSWB.R501 = eu.smallwaterblessing_en_US_goadedes.euSWB.R501
+euSWB.Key0501.incipit = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0501.incipit
+euSWB.Key0501.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0501.text
+euSWB.Key0501a.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0501a.text
+euSWB.Key0501b.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0501b.text
+euSWB.Key0501c.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0501c.text
 
 euSWB.Key0502.title = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0502.title
 euSWB.Key0502.incipit = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0502.incipit
@@ -248,17 +252,17 @@ euSWB.Key0503b.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0503b.text
 euSWB.Key0503c.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0503c.text
 euSWB.Key0504.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0504.text
 
-euSWB.R601 = eu.smallwaterblessing_en_US_dedes.euSWB.R601
+euSWB.R601 = eu.smallwaterblessing_en_US_goadedes.euSWB.R601
 euSWB.Key0601.text = eu.smallwaterblessing_en_US_goadedes.euSWB.Key0601.text
 
-euSWB.R602 = eu.smallwaterblessing_en_US_dedes.euSWB.R602
+euSWB.R602 = eu.smallwaterblessing_en_US_goadedes.euSWB.R602
 
-euSWB.R603 = eu.smallwaterblessing_en_US_dedes.euSWB.R603
+euSWB.R603 = eu.smallwaterblessing_en_US_goadedes.euSWB.R603
 
 euSWB.Key0602.mode = eu.smallwaterblessing_en_US_dedes.euSWB.Key0602.mode
 euSWB.Key0602.text = eu.smallwaterblessing_en_US_dedes.euSWB.Key0602.text
 
-euSWB.R604 = eu.smallwaterblessing_en_US_dedes.euSWB.R604
+euSWB.R604 = eu.smallwaterblessing_en_US_goadedes.euSWB.R604
 
-euSWB.R605 = eu.smallwaterblessing_en_US_dedes.euSWB.R605
+euSWB.R605 = eu.smallwaterblessing_en_US_goadedes.euSWB.R605
 
