@@ -66,6 +66,8 @@ ru.HolidayWineOil = rubrical_en_US_dedes.ru.HolidayWineOil
 
 ru.IfExistsIfNot = rubrical_en_US_dedes.ru.IfExistsIfNot
 
+ru.IfLityDoneAtVespers = rubrical_en_US_dedes.ru.IfLityDoneAtVespers
+
 ru.IfLityNotDoneAtVespers = rubrical_en_US_dedes.ru.IfLityNotDoneAtVespers
 
 ru.InALowVoice = rubrical_en_US_dedes.ru.InALowVoice
@@ -103,6 +105,8 @@ ru.Or = rubrical_en_US_dedes.ru.Or
 ru.OrAccordingToCommonPractice = rubrical_en_US_dedes.ru.OrAccordingToCommonPractice
 
 ru.OrAccordingToOlderPractice = rubrical_en_US_dedes.ru.OrAccordingToOlderPractice
+
+ru.OtherwiseTheFollowing = rubrical_en_US_dedes.ru.OtherwiseTheFollowing
 
 ru.Read = rubrical_en_US_dedes.ru.Read
 
