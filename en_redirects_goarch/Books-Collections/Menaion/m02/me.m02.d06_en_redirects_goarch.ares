@@ -904,8 +904,8 @@ alt1.meMA.Ode9C1M02.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Ode9C1M02.incipit
 alt1.meMA.Ode9C1M02.text = me.m02.d06_en_US_dedes.alt1.meMA.Ode9C1M02.text
 alt1.meMA.Ode9C1MTr.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Ode9C1MTr.incipit
 alt1.meMA.Ode9C1MTr.text = me.m02.d06_en_US_dedes.alt1.meMA.Ode9C1MTr.text
-alt1.meMA.Ode9C1MTh.incipit = me.m02.d06_en_US_dedes.alt1.meMA.Ode9C1MTh.incipit
-alt1.meMA.Ode9C1MTh.text = me.m02.d06_en_US_dedes.alt1.meMA.Ode9C1MTh.text
+alt1.meMA.Ode9C1MTh.incipit = me.m02.d06_en_US_goadedes.alt1.meMA.Ode9C1MTh.incipit
+alt1.meMA.Ode9C1MTh.text = me.m02.d06_en_US_goadedes.alt1.meMA.Ode9C1MTh.text
 
 alt1.meMA.Ode9C11.ode = me.m02.d06_en_US_dedes.alt1.meMA.Ode9C11.ode
 alt1.meMA.Ode9C11.mode = me.m02.d06_en_US_dedes.alt1.meMA.Ode9C11.mode
