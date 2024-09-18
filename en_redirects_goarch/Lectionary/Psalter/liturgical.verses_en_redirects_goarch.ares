@@ -2768,6 +2768,7 @@ psHO.ecloge.triodion34.v15.text = liturgical.verses_en_US_saas.psHO.ecloge.triod
 psEU.baptism.hymn1.title = liturgical.verses_en_US_saas.psEU.baptism.hymn1.title
 psEU.baptism.hymn1.info = liturgical.verses_en_US_saas.psEU.baptism.hymn1.info
 psEU.baptism.hymn1.text = liturgical.verses_en_US_saas.psEU.baptism.hymn1.text
+psEU.baptism.hymn2.text = liturgical.verses_en_US_saas.psEU.baptism.hymn2.text
 psEU.baptism.prokeimenon.title = liturgical.verses_en_US_saas.psEU.baptism.prokeimenon.title
 psEU.baptism.prokeimenon.v1.info = liturgical.verses_en_US_saas.psEU.baptism.prokeimenon.v1.info
 psEU.baptism.prokeimenon.v1.text = liturgical.verses_en_US_saas.psEU.baptism.prokeimenon.v1.text
@@ -2778,6 +2779,9 @@ psEU.baptism.alleluia.v1.info = liturgical.verses_en_US_saas.psEU.baptism.allelu
 psEU.baptism.alleluia.v1.text = liturgical.verses_en_US_saas.psEU.baptism.alleluia.v1.text
 psEU.baptism.alleluia.v2.info = liturgical.verses_en_US_saas.psEU.baptism.alleluia.v2.info
 psEU.baptism.alleluia.v2.text = liturgical.verses_en_US_saas.psEU.baptism.alleluia.v2.text
+psEU.baptism.communion.title = liturgical.verses_en_US_saas.psEU.baptism.communion.title
+psEU.baptism.communion.info = liturgical.verses_en_US_saas.psEU.baptism.communion.info
+psEU.baptism.communion.text = liturgical.verses_en_US_saas.psEU.baptism.communion.text
 
 psEU.childbirth.fortydays.v1.info = liturgical.verses_en_US_saas.psEU.childbirth.fortydays.v1.info
 psEU.childbirth.fortydays.v1.text = liturgical.verses_en_US_saas.psEU.childbirth.fortydays.v1.text
