@@ -20,10 +20,10 @@ euORD.DE.p203.text = eu.ordination_en_US_goa.euORD.DE.p203.text
 euORD.DE.r02 = eu.ordination_en_US_goa.euORD.DE.r02
 euORD.DE.r03 = eu.ordination_en_US_goa.euORD.DE.r03
 
-euORD.DE.p204.title = eu.ordination_en_US_dedes.euORD.DE.p204.title
-euORD.DE.p204.mode = eu.ordination_en_US_dedes.euORD.DE.p204.mode
-euORD.DE.p204.incipit = eu.ordination_en_US_dedes.euORD.DE.p204.incipit
-euORD.DE.p204.text = eu.ordination_en_US_dedes.euORD.DE.p204.text
+euORD.DE.p204.title = eu.ordination_en_US_goadedes.euORD.DE.p204.title
+euORD.DE.p204.mode = eu.ordination_en_US_goadedes.euORD.DE.p204.mode
+euORD.DE.p204.incipit = eu.ordination_en_US_goadedes.euORD.DE.p204.incipit
+euORD.DE.p204.text = eu.ordination_en_US_goadedes.euORD.DE.p204.text
 
 euORD.DE.p205.mode = eu.ordination_en_US_dedes.euORD.DE.p205.mode
 euORD.DE.p205.incipit = eu.ordination_en_US_dedes.euORD.DE.p205.incipit

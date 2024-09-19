@@ -2993,4 +2993,6 @@ psEU.wedding.alleluia.v1.info = liturgical.verses_en_US_saas.psEU.wedding.allelu
 psEU.wedding.alleluia.v1.text = liturgical.verses_en_US_saas.psEU.wedding.alleluia.v1.text
 psEU.wedding.alleluia.v2.info = liturgical.verses_en_US_saas.psEU.wedding.alleluia.v2.info
 psEU.wedding.alleluia.v2.text = liturgical.verses_en_US_saas.psEU.wedding.alleluia.v2.text
-
+psEU.wedding.communion.title = liturgical.verses_en_US_saas.psEU.wedding.communion.title
+psEU.wedding.communion.info = liturgical.verses_en_US_saas.psEU.wedding.communion.info
+psEU.wedding.communion.text = liturgical.verses_en_US_saas.psEU.wedding.communion.text
