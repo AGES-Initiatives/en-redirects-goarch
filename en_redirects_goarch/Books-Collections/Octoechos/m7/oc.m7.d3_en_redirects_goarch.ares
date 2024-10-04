@@ -651,11 +651,11 @@ ocMA.Aposticha3.melody = oc.m7.d3_en_US_dedes.ocMA.Aposticha3.melody
 ocMA.Aposticha3.incipit = oc.m7.d3_en_US_dedes.ocMA.Aposticha3.incipit
 ocMA.Aposticha3.text = oc.m7.d3_en_US_dedes.ocMA.Aposticha3.text
 
-ocMA.AposTheotokion.mode = oc.m7.d3_en_US_dedes.ocMA.AposTheotokion.mode
-ocMA.AposTheotokion.greekmelody = oc.m7.d3_en_US_dedes.ocMA.AposTheotokion.greekmelody
-ocMA.AposTheotokion.melody = oc.m7.d3_en_US_dedes.ocMA.AposTheotokion.melody
-ocMA.AposTheotokion.incipit = oc.m7.d3_en_US_dedes.ocMA.AposTheotokion.incipit
-ocMA.AposTheotokion.text = oc.m7.d3_en_US_dedes.ocMA.AposTheotokion.text
+ocMA.AposTheotokion.mode = oc.m7.d3_en_US_goadedes.ocMA.AposTheotokion.mode
+ocMA.AposTheotokion.greekmelody = oc.m7.d3_en_US_goadedes.ocMA.AposTheotokion.greekmelody
+ocMA.AposTheotokion.melody = oc.m7.d3_en_US_goadedes.ocMA.AposTheotokion.melody
+ocMA.AposTheotokion.incipit = oc.m7.d3_en_US_goadedes.ocMA.AposTheotokion.incipit
+ocMA.AposTheotokion.text = oc.m7.d3_en_US_goadedes.ocMA.AposTheotokion.text
 
 ocMA.ApolTheotokion.mode = oc.m7.d3_en_US_dedes.ocMA.ApolTheotokion.mode
 ocMA.ApolTheotokion.greekmelody = oc.m7.d3_en_US_dedes.ocMA.ApolTheotokion.greekmelody

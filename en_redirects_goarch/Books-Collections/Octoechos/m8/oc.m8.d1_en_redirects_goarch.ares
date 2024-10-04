@@ -173,16 +173,16 @@ ocMO.Ode3T.melody = oc.m8.d1_en_US_dedes.ocMO.Ode3T.melody
 ocMO.Ode3T.incipit = oc.m8.d1_en_US_dedes.ocMO.Ode3T.incipit
 ocMO.Ode3T.text = oc.m8.d1_en_US_dedes.ocMO.Ode3T.text
 
-ocMO.Kathisma11.mode = oc.m8.d1_en_US_dedes.ocMO.Kathisma11.mode
-ocMO.Kathisma11.greekmelody = oc.m8.d1_en_US_dedes.ocMO.Kathisma11.greekmelody
-ocMO.Kathisma11.melody = oc.m8.d1_en_US_dedes.ocMO.Kathisma11.melody
-ocMO.Kathisma11.incipit = oc.m8.d1_en_US_dedes.ocMO.Kathisma11.incipit
-ocMO.Kathisma11.text = oc.m8.d1_en_US_dedes.ocMO.Kathisma11.text
+ocMO.Kathisma11.mode = oc.m8.d1_en_US_goadedes.ocMO.Kathisma11.mode
+ocMO.Kathisma11.greekmelody = oc.m8.d1_en_US_goadedes.ocMO.Kathisma11.greekmelody
+ocMO.Kathisma11.melody = oc.m8.d1_en_US_goadedes.ocMO.Kathisma11.melody
+ocMO.Kathisma11.incipit = oc.m8.d1_en_US_goadedes.ocMO.Kathisma11.incipit
+ocMO.Kathisma11.text = oc.m8.d1_en_US_goadedes.ocMO.Kathisma11.text
 
-ocMO.Kathisma12.mode = oc.m8.d1_en_US_dedes.ocMO.Kathisma12.mode
-ocMO.Kathisma12.melody = oc.m8.d1_en_US_dedes.ocMO.Kathisma12.melody
-ocMO.Kathisma12.incipit = oc.m8.d1_en_US_dedes.ocMO.Kathisma12.incipit
-ocMO.Kathisma12.text = oc.m8.d1_en_US_dedes.ocMO.Kathisma12.text
+ocMO.Kathisma12.mode = oc.m8.d1_en_US_goadedes.ocMO.Kathisma12.mode
+ocMO.Kathisma12.melody = oc.m8.d1_en_US_goadedes.ocMO.Kathisma12.melody
+ocMO.Kathisma12.incipit = oc.m8.d1_en_US_goadedes.ocMO.Kathisma12.incipit
+ocMO.Kathisma12.text = oc.m8.d1_en_US_goadedes.ocMO.Kathisma12.text
 
 ocMO.Ode41.mode = oc.m8.d1_en_US_dedes.ocMO.Ode41.mode
 ocMO.Ode41.ode = oc.m8.d1_en_US_dedes.ocMO.Ode41.ode
@@ -259,11 +259,11 @@ ocMO.Ode6T.melody = oc.m8.d1_en_US_dedes.ocMO.Ode6T.melody
 ocMO.Ode6T.incipit = oc.m8.d1_en_US_dedes.ocMO.Ode6T.incipit
 ocMO.Ode6T.text = oc.m8.d1_en_US_dedes.ocMO.Ode6T.text
 
-ocMO.Kathisma21.mode = oc.m8.d1_en_US_dedes.ocMO.Kathisma21.mode
-ocMO.Kathisma21.greekmelody = oc.m8.d1_en_US_dedes.ocMO.Kathisma21.greekmelody
-ocMO.Kathisma21.melody = oc.m8.d1_en_US_dedes.ocMO.Kathisma21.melody
-ocMO.Kathisma21.incipit = oc.m8.d1_en_US_dedes.ocMO.Kathisma21.incipit
-ocMO.Kathisma21.text = oc.m8.d1_en_US_dedes.ocMO.Kathisma21.text
+ocMO.Kathisma21.mode = oc.m8.d1_en_US_goadedes.ocMO.Kathisma21.mode
+ocMO.Kathisma21.greekmelody = oc.m8.d1_en_US_goadedes.ocMO.Kathisma21.greekmelody
+ocMO.Kathisma21.melody = oc.m8.d1_en_US_goadedes.ocMO.Kathisma21.melody
+ocMO.Kathisma21.incipit = oc.m8.d1_en_US_goadedes.ocMO.Kathisma21.incipit
+ocMO.Kathisma21.text = oc.m8.d1_en_US_goadedes.ocMO.Kathisma21.text
 
 ocMO.Kathisma22.mode = oc.m8.d1_en_US_dedes.ocMO.Kathisma22.mode
 ocMO.Kathisma22.melody = oc.m8.d1_en_US_dedes.ocMO.Kathisma22.melody
