@@ -327,47 +327,6 @@ euCA.Ode9T.melody = eu.consecration_en_US_goadedes.euCA.Ode9T.melody
 euCA.Ode9T.incipit = eu.consecration_en_US_goadedes.euCA.Ode9T.incipit
 euCA.Ode9T.text = eu.consecration_en_US_goadedes.euCA.Ode9T.text
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-euMA.Ode3Kathisma1.mode = eu.consecration_en_US_dedes.euMA.Ode3Kathisma1.mode
-euMA.Ode3Kathisma1.melody = eu.consecration_en_US_goadedes.euMA.Ode3Kathisma1.melody
-euMA.Ode3Kathisma1.incipit = eu.consecration_en_US_goadedes.euMA.Ode3Kathisma1.incipit
-euMA.Ode3Kathisma1.text = eu.consecration_en_US_goadedes.euMA.Ode3Kathisma1.text
-
-euMA.Ode3KathismaT.mode = eu.consecration_en_US_dedes.euMA.Ode3KathismaT.mode
-euMA.Ode3KathismaT.melody = eu.consecration_en_US_goadedes.euMA.Ode3KathismaT.melody
-euMA.Ode3KathismaT.incipit = eu.consecration_en_US_goadedes.euMA.Ode3KathismaT.incipit
-euMA.Ode3KathismaT.text = eu.consecration_en_US_goadedes.euMA.Ode3KathismaT.text
-
-euMA.Kontakion.mode = eu.consecration_en_US_dedes.euMA.Kontakion.mode
-euMA.Kontakion.melody = eu.consecration_en_US_dedes.euMA.Kontakion.melody
-euMA.Kontakion.incipit = eu.consecration_en_US_dedes.euMA.Kontakion.incipit
-euMA.Kontakion.text = eu.consecration_en_US_dedes.euMA.Kontakion.text
-
-euMA.Oikos.text = eu.consecration_en_US_dedes.euMA.Oikos.text
-
 euMA.Exaposteilarion1.mode = eu.consecration_en_US_dedes.euMA.Exaposteilarion1.mode
 euMA.Exaposteilarion1.melody = eu.consecration_en_US_dedes.euMA.Exaposteilarion1.melody
 euMA.Exaposteilarion1.incipit = eu.consecration_en_US_dedes.euMA.Exaposteilarion1.incipit
