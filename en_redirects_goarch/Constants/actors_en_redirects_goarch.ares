@@ -71,3 +71,7 @@ ac.IL.Respondent = actors_en_US_goa.ac.IL.Respondent
 ac.IL.Subdeacon = actors_en_US_goa.ac.IL.Subdeacon
 ac.IL.Superior = actors_en_US_goa.ac.IL.Superior
 ac.IL.SuperiorOrReader = actors_en_US_goa.ac.IL.SuperiorOrReader
+
+ac.LC.Archbishop = actors_en_US_goa.ac.LC.Archbishop
+ac.LC.Hierarch = actors_en_US_goa.ac.LC.Hierarch
+ac.LC.Deacon = actors_en_US_goa.ac.LC.Deacon
