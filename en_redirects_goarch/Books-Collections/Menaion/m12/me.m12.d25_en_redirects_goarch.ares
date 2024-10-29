@@ -40,7 +40,8 @@ meVE.Stichera03.melody = me.m12.d25_en_US_dedes.meVE.Stichera03.melody
 meVE.Stichera03.incipit = me.m12.d25_en_US_dedes.meVE.Stichera03.incipit
 meVE.Stichera03.text = me.m12.d25_en_US_dedes.meVE.Stichera03.text
 
-meVE.MM.Stichera123as567.text = me.m12.d25_en_US_dedes.meVE.MM.Stichera123as567.text // for media on Sunday After
+meVE.MM.Stichera123as567.text = me.m12.d25_en_US_dedes.meVE.MM.Stichera123as567.text
+meVE.MM.Stichera1234as1234.text = me.m12.d25_en_US_dedes.meVE.MM.Stichera1234as1234.text
 
 meVE.Stichera04.mode = me.m12.d25_en_US_dedes.meVE.Stichera04.mode
 meVE.Stichera04.melody = me.m12.d25_en_US_dedes.meVE.Stichera04.melody
@@ -1031,6 +1032,7 @@ meMA.Lauds4.melody = me.m12.d25_en_US_dedes.meMA.Lauds4.melody
 meMA.Lauds4.incipit = me.m12.d25_en_US_dedes.meMA.Lauds4.incipit
 meMA.Lauds4.text = me.m12.d25_en_US_dedes.meMA.Lauds4.text
 
+meMA.MM.Lauds1234as1234.text = me.m12.d25_en_US_dedes.meMA.MM.Lauds1234as1234.text
 meMA.MM.Lauds1234as5678.text = me.m12.d25_en_US_dedes.meMA.MM.Lauds1234as5678.text
 
 meMA.LaudsGlory.poet = me.m12.d25_en_US_dedes.meMA.LaudsGlory.poet
