@@ -68,28 +68,28 @@ meVE.ProphecyTroparion2Refrain.text = me.m01.d06_en_US_dedes.meVE.ProphecyTropar
 meVE.Lity1.poet = me.m01.d06_en_US_dedes.meVE.Lity1.poet
 meVE.Lity1.mode = me.m01.d06_en_US_dedes.meVE.Lity1.mode
 meVE.Lity1.melody = me.m01.d06_en_US_dedes.meVE.Lity1.melody
-meVE.Lity1.incipit = me.m01.d06_en_US_oca.meVE.Lity1.incipit
-meVE.Lity1.text = me.m01.d06_en_US_oca.meVE.Lity1.text
+meVE.Lity1.incipit = me.m01.d06_en_US_mlgs.meVE.Lity1.incipit
+meVE.Lity1.text = me.m01.d06_en_US_mlgs.meVE.Lity1.text
 
 meVE.Lity2.mode = me.m01.d06_en_US_dedes.meVE.Lity2.mode
 meVE.Lity2.melody = me.m01.d06_en_US_dedes.meVE.Lity2.melody
-meVE.Lity2.incipit = me.m01.d06_en_US_oca.meVE.Lity2.incipit
-meVE.Lity2.text = me.m01.d06_en_US_oca.meVE.Lity2.text
+meVE.Lity2.incipit = me.m01.d06_en_US_mlgs.meVE.Lity2.incipit
+meVE.Lity2.text = me.m01.d06_en_US_mlgs.meVE.Lity2.text
 
 meVE.Lity3.mode = me.m01.d06_en_US_dedes.meVE.Lity3.mode
 meVE.Lity3.melody = me.m01.d06_en_US_dedes.meVE.Lity3.melody
-meVE.Lity3.incipit = me.m01.d06_en_US_oca.meVE.Lity3.incipit
-meVE.Lity3.text = me.m01.d06_en_US_oca.meVE.Lity3.text
+meVE.Lity3.incipit = me.m01.d06_en_US_mlgs.meVE.Lity3.incipit
+meVE.Lity3.text = me.m01.d06_en_US_mlgs.meVE.Lity3.text
 
 meVE.Lity4.mode = me.m01.d06_en_US_dedes.meVE.Lity4.mode
 meVE.Lity4.melody = me.m01.d06_en_US_dedes.meVE.Lity4.melody
-meVE.Lity4.incipit = me.m01.d06_en_US_oca.meVE.Lity4.incipit
-meVE.Lity4.text = me.m01.d06_en_US_oca.meVE.Lity4.text
+meVE.Lity4.incipit = me.m01.d06_en_US_mlgs.meVE.Lity4.incipit
+meVE.Lity4.text = me.m01.d06_en_US_mlgs.meVE.Lity4.text
 
 meVE.Lity5.mode = me.m01.d06_en_US_dedes.meVE.Lity5.mode
 meVE.Lity5.melody = me.m01.d06_en_US_dedes.meVE.Lity5.melody
-meVE.Lity5.incipit = me.m01.d06_en_US_oca.meVE.Lity5.incipit
-meVE.Lity5.text = me.m01.d06_en_US_oca.meVE.Lity5.text
+meVE.Lity5.incipit = me.m01.d06_en_US_mlgs.meVE.Lity5.incipit
+meVE.Lity5.text = me.m01.d06_en_US_mlgs.meVE.Lity5.text
 
 meVE.LityGlory.poet = me.m01.d06_en_US_dedes.meVE.LityGlory.poet
 meVE.LityGlory.mode = me.m01.d06_en_US_dedes.meVE.LityGlory.mode
