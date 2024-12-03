@@ -90,10 +90,10 @@ meVE.AposGlory.incipit = me.m01.d07_en_US_oca.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m01.d07_en_US_oca.meVE.AposGlory.text
 
 meVE.AposBoth.poet = me.m01.d07_en_US_dedes.meVE.AposBoth.poet
-meVE.AposBoth.mode = me.m01.d07_en_US_dedes.meVE.AposBoth.mode
-meVE.AposBoth.melody = me.m01.d07_en_US_dedes.meVE.AposBoth.melody
-meVE.AposBoth.incipit = me.m01.d07_en_US_oca.meVE.AposBoth.incipit
-meVE.AposBoth.text = me.m01.d07_en_US_oca.meVE.AposBoth.text
+meVE.AposBoth.mode = me.m01.d07_en_US_mlgs.meVE.AposBoth.mode
+meVE.AposBoth.melody = me.m01.d07_en_US_mlgs.meVE.AposBoth.melody
+meVE.AposBoth.incipit = me.m01.d07_en_US_mlgs.meVE.AposBoth.incipit
+meVE.AposBoth.text = me.m01.d07_en_US_mlgs.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = me.m01.d07_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m01.d07_en_US_dedes.meVE.Apolytikion1.melody
