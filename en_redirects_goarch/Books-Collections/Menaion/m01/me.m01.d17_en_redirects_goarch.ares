@@ -202,10 +202,10 @@ meMA.Kathisma32.melody = me.m01.d17_en_US_dedes.meMA.Kathisma32.melody
 meMA.Kathisma32.incipit = me.m01.d17_en_US_dedes.meMA.Kathisma32.incipit
 meMA.Kathisma32.text = me.m01.d17_en_US_dedes.meMA.Kathisma32.text
 
-meMA.Kathisma3T.mode = me.m01.d17_en_US_dedes.meMA.Kathisma3T.mode
-meMA.Kathisma3T.melody = me.m01.d17_en_US_dedes.meMA.Kathisma3T.melody
-meMA.Kathisma3T.incipit = me.m01.d17_en_US_dedes.meMA.Kathisma3T.incipit
-meMA.Kathisma3T.text = me.m01.d17_en_US_dedes.meMA.Kathisma3T.text
+meMA.Kathisma3T.mode = me.m01.d17_en_US_goadedes.meMA.Kathisma3T.mode
+meMA.Kathisma3T.melody = me.m01.d17_en_US_goadedes.meMA.Kathisma3T.melody
+meMA.Kathisma3T.incipit = me.m01.d17_en_US_goadedes.meMA.Kathisma3T.incipit
+meMA.Kathisma3T.text = me.m01.d17_en_US_goadedes.meMA.Kathisma3T.text
 
 meMA.PostGospelGlory.mode = me.m01.d17_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m01.d17_en_US_dedes.meMA.PostGospelGlory.melody
@@ -429,17 +429,17 @@ meMA.Ode9C1T.melody = me.m01.d17_en_US_oca.meMA.Ode9C1T.melody
 meMA.Ode9C1T.incipit = me.m01.d17_en_US_oca.meMA.Ode9C1T.incipit
 meMA.Ode9C1T.text = me.m01.d17_en_US_oca.meMA.Ode9C1T.text
 
-meMA.Exaposteilarion1.mode = me.m01.d17_en_US_dedes.meMA.Exaposteilarion1.mode
-meMA.Exaposteilarion1.greekmelody = me.m01.d17_en_US_dedes.meMA.Exaposteilarion1.greekmelody
-meMA.Exaposteilarion1.melody = me.m01.d17_en_US_oca.meMA.Exaposteilarion1.melody
-meMA.Exaposteilarion1.incipit = me.m01.d17_en_US_oca.meMA.Exaposteilarion1.incipit
-meMA.Exaposteilarion1.text = me.m01.d17_en_US_oca.meMA.Exaposteilarion1.text
+meMA.Exaposteilarion1.mode = me.m01.d17_en_US_goadedes.meMA.Exaposteilarion1.mode
+meMA.Exaposteilarion1.greekmelody = me.m01.d17_en_US_goadedes.meMA.Exaposteilarion1.greekmelody
+meMA.Exaposteilarion1.melody = me.m01.d17_en_US_goadedes.meMA.Exaposteilarion1.melody
+meMA.Exaposteilarion1.incipit = me.m01.d17_en_US_goadedes.meMA.Exaposteilarion1.incipit
+meMA.Exaposteilarion1.text = me.m01.d17_en_US_goadedes.meMA.Exaposteilarion1.text
 
-meMA.Exaposteilarion2.mode = me.m01.d17_en_US_dedes.meMA.Exaposteilarion2.mode
-meMA.Exaposteilarion2.greekmelody = me.m01.d17_en_US_dedes.meMA.Exaposteilarion2.greekmelody
-meMA.Exaposteilarion2.melody = me.m01.d17_en_US_oca.meMA.Exaposteilarion2.melody
-meMA.Exaposteilarion2.incipit = me.m01.d17_en_US_oca.meMA.Exaposteilarion2.incipit
-meMA.Exaposteilarion2.text = me.m01.d17_en_US_oca.meMA.Exaposteilarion2.text
+meMA.Exaposteilarion2.mode = me.m01.d17_en_US_goadedes.meMA.Exaposteilarion2.mode
+meMA.Exaposteilarion2.greekmelody = me.m01.d17_en_US_goadedes.meMA.Exaposteilarion2.greekmelody
+meMA.Exaposteilarion2.melody = me.m01.d17_en_US_goadedes.meMA.Exaposteilarion2.melody
+meMA.Exaposteilarion2.incipit = me.m01.d17_en_US_goadedes.meMA.Exaposteilarion2.incipit
+meMA.Exaposteilarion2.text = me.m01.d17_en_US_goadedes.meMA.Exaposteilarion2.text
 
 meMA.Exaposteilarion3.mode = me.m01.d17_en_US_dedes.meMA.Exaposteilarion3.mode
 meMA.Exaposteilarion3.greekmelody = me.m01.d17_en_US_dedes.meMA.Exaposteilarion3.greekmelody
