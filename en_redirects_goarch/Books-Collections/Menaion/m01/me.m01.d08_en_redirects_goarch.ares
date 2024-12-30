@@ -584,10 +584,10 @@ meMA.Aposticha3.melody = me.m01.d08_en_US_dedes.meMA.Aposticha3.melody
 meMA.Aposticha3.incipit = me.m01.d08_en_US_dedes.meMA.Aposticha3.incipit
 meMA.Aposticha3.text = me.m01.d08_en_US_dedes.meMA.Aposticha3.text
 
-meMA.AposGlory.mode = me.m01.d08_en_US_dedes.meMA.AposGlory.mode
-meMA.AposGlory.melody = me.m01.d08_en_US_dedes.meMA.AposGlory.melody
-meMA.AposGlory.incipit = me.m01.d08_en_US_dedes.meMA.AposGlory.incipit
-meMA.AposGlory.text = me.m01.d08_en_US_dedes.meMA.AposGlory.text
+meMA.AposGlory.mode = me.m01.d08_en_US_goadedes.meMA.AposGlory.mode
+meMA.AposGlory.melody = me.m01.d08_en_US_goadedes.meMA.AposGlory.melody
+meMA.AposGlory.incipit = me.m01.d08_en_US_goadedes.meMA.AposGlory.incipit
+meMA.AposGlory.text = me.m01.d08_en_US_goadedes.meMA.AposGlory.text
 
 meLI.Megalynarion.text = me.m01.d08_en_US_dedes.meLI.Megalynarion.text
 
