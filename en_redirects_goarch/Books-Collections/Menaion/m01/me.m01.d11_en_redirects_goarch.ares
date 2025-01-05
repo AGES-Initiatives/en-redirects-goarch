@@ -24,7 +24,7 @@ meHO.note1 = me.m01.d11_en_US_dedes.meHO.note1
 meHO.note2 = me.m01.d11_en_US_dedes.meHO.note2
 meDA.dismissal = me.m01.d11_en_US_dedes.meDA.dismissal
 
-//Θεοφάνους Ὁμολογητοῦ
+meVE.Stichera01.poet = me.m01.d11_en_US_dedes.meVE.Stichera01.poet
 meVE.Stichera01.mode = me.m01.d11_en_US_dedes.meVE.Stichera01.mode
 meVE.Stichera01.melody = me.m01.d11_en_US_dedes.meVE.Stichera01.melody
 meVE.Stichera01.incipit = me.m01.d11_en_US_dedes.meVE.Stichera01.incipit
@@ -105,11 +105,11 @@ meMA.Kathisma31.melody = me.m01.d11_en_US_dedes.meMA.Kathisma31.melody
 meMA.Kathisma31.incipit = me.m01.d11_en_US_dedes.meMA.Kathisma31.incipit
 meMA.Kathisma31.text = me.m01.d11_en_US_dedes.meMA.Kathisma31.text
 
-meMA.Kathisma32.mode = me.m01.d11_en_US_dedes.meMA.Kathisma32.mode
-meMA.Kathisma32.greekmelody = me.m01.d11_en_US_dedes.meMA.Kathisma32.greekmelody
-meMA.Kathisma32.melody = me.m01.d11_en_US_dedes.meMA.Kathisma32.melody
-meMA.Kathisma32.incipit = me.m01.d11_en_US_dedes.meMA.Kathisma32.incipit
-meMA.Kathisma32.text = me.m01.d11_en_US_dedes.meMA.Kathisma32.text
+meMA.Kathisma32.mode = me.m01.d11_en_US_goadedes.meMA.Kathisma32.mode
+meMA.Kathisma32.greekmelody = me.m01.d11_en_US_goadedes.meMA.Kathisma32.greekmelody
+meMA.Kathisma32.melody = me.m01.d11_en_US_goadedes.meMA.Kathisma32.melody
+meMA.Kathisma32.incipit = me.m01.d11_en_US_goadedes.meMA.Kathisma32.incipit
+meMA.Kathisma32.text = me.m01.d11_en_US_goadedes.meMA.Kathisma32.text
 
 meMA.PostGospelGlory.mode = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.mode
 meMA.PostGospelGlory.melody = me.m01.d11_en_US_dedes.meMA.PostGospelGlory.melody
@@ -434,27 +434,27 @@ meMA.Exaposteilarion2.melody = me.m01.d11_en_US_dedes.meMA.Exaposteilarion2.melo
 meMA.Exaposteilarion2.incipit = me.m01.d11_en_US_dedes.meMA.Exaposteilarion2.incipit
 meMA.Exaposteilarion2.text = me.m01.d11_en_US_dedes.meMA.Exaposteilarion2.text
 
-meMA.Lauds1.mode = me.m01.d11_en_US_dedes.meMA.Lauds1.mode
-meMA.Lauds1.greekmelody = me.m01.d11_en_US_dedes.meMA.Lauds1.greekmelody
-meMA.Lauds1.melody = me.m01.d11_en_US_dedes.meMA.Lauds1.melody
-meMA.Lauds1.incipit = me.m01.d11_en_US_dedes.meMA.Lauds1.incipit
-meMA.Lauds1.text = me.m01.d11_en_US_dedes.meMA.Lauds1.text
+meMA.Lauds1.mode = me.m01.d11_en_US_goadedes.meMA.Lauds1.mode
+meMA.Lauds1.greekmelody = me.m01.d11_en_US_goadedes.meMA.Lauds1.greekmelody
+meMA.Lauds1.melody = me.m01.d11_en_US_goadedes.meMA.Lauds1.melody
+meMA.Lauds1.incipit = me.m01.d11_en_US_goadedes.meMA.Lauds1.incipit
+meMA.Lauds1.text = me.m01.d11_en_US_goadedes.meMA.Lauds1.text
 
-meMA.Lauds2.mode = me.m01.d11_en_US_dedes.meMA.Lauds2.mode
-meMA.Lauds2.melody = me.m01.d11_en_US_dedes.meMA.Lauds2.melody
-meMA.Lauds2.incipit = me.m01.d11_en_US_dedes.meMA.Lauds2.incipit
-meMA.Lauds2.text = me.m01.d11_en_US_dedes.meMA.Lauds2.text
+meMA.Lauds2.mode = me.m01.d11_en_US_goadedes.meMA.Lauds2.mode
+meMA.Lauds2.melody = me.m01.d11_en_US_goadedes.meMA.Lauds2.melody
+meMA.Lauds2.incipit = me.m01.d11_en_US_goadedes.meMA.Lauds2.incipit
+meMA.Lauds2.text = me.m01.d11_en_US_goadedes.meMA.Lauds2.text
 
-meMA.Lauds3.mode = me.m01.d11_en_US_dedes.meMA.Lauds3.mode
-meMA.Lauds3.melody = me.m01.d11_en_US_dedes.meMA.Lauds3.melody
-meMA.Lauds3.incipit = me.m01.d11_en_US_dedes.meMA.Lauds3.incipit
-meMA.Lauds3.text = me.m01.d11_en_US_dedes.meMA.Lauds3.text
+meMA.Lauds3.mode = me.m01.d11_en_US_goadedes.meMA.Lauds3.mode
+meMA.Lauds3.melody = me.m01.d11_en_US_goadedes.meMA.Lauds3.melody
+meMA.Lauds3.incipit = me.m01.d11_en_US_goadedes.meMA.Lauds3.incipit
+meMA.Lauds3.text = me.m01.d11_en_US_goadedes.meMA.Lauds3.text
 
-meMA.Lauds4.mode = me.m01.d11_en_US_dedes.meMA.Lauds4.mode
-meMA.Lauds4.greekmelody = me.m01.d11_en_US_dedes.meMA.Lauds4.greekmelody
-meMA.Lauds4.melody = me.m01.d11_en_US_dedes.meMA.Lauds4.melody
-meMA.Lauds4.incipit = me.m01.d11_en_US_dedes.meMA.Lauds4.incipit
-meMA.Lauds4.text = me.m01.d11_en_US_dedes.meMA.Lauds4.text
+meMA.Lauds4.mode = me.m01.d11_en_US_goadedes.meMA.Lauds4.mode
+meMA.Lauds4.greekmelody = me.m01.d11_en_US_goadedes.meMA.Lauds4.greekmelody
+meMA.Lauds4.melody = me.m01.d11_en_US_goadedes.meMA.Lauds4.melody
+meMA.Lauds4.incipit = me.m01.d11_en_US_goadedes.meMA.Lauds4.incipit
+meMA.Lauds4.text = me.m01.d11_en_US_goadedes.meMA.Lauds4.text
 
 meMA.LaudsGlory.poet = me.m01.d11_en_US_dedes.meMA.LaudsGlory.poet
 meMA.LaudsGlory.mode = me.m01.d11_en_US_dedes.meMA.LaudsGlory.mode
