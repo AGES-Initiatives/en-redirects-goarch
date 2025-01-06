@@ -90,11 +90,11 @@ meMA.Kathisma11.melody = me.m01.d12_en_US_dedes.meMA.Kathisma11.melody
 meMA.Kathisma11.incipit = me.m01.d12_en_US_dedes.meMA.Kathisma11.incipit
 meMA.Kathisma11.text = me.m01.d12_en_US_dedes.meMA.Kathisma11.text
 
-meMA.Kathisma21.mode = me.m01.d12_en_US_dedes.meMA.Kathisma21.mode
-meMA.Kathisma21.greekmelody = me.m01.d12_en_US_dedes.meMA.Kathisma21.greekmelody
-meMA.Kathisma21.melody = me.m01.d12_en_US_oca.meMA.Kathisma21.melody
-meMA.Kathisma21.incipit = me.m01.d12_en_US_oca.meMA.Kathisma21.incipit
-meMA.Kathisma21.text = me.m01.d12_en_US_oca.meMA.Kathisma21.text
+meMA.Kathisma21.mode = me.m01.d12_en_US_goadedes.meMA.Kathisma21.mode
+meMA.Kathisma21.greekmelody = me.m01.d12_en_US_goadedes.meMA.Kathisma21.greekmelody
+meMA.Kathisma21.melody = me.m01.d12_en_US_goadedes.meMA.Kathisma21.melody
+meMA.Kathisma21.incipit = me.m01.d12_en_US_goadedes.meMA.Kathisma21.incipit
+meMA.Kathisma21.text = me.m01.d12_en_US_goadedes.meMA.Kathisma21.text
 
 meMA.C1.title = me.m01.d12_en_US_dedes.meMA.C1.title
 meMA.C1.verse = me.m01.d12_en_US_dedes.meMA.C1.verse
@@ -351,26 +351,26 @@ meMA.Exaposteilarion2.melody = me.m01.d12_en_US_dedes.meMA.Exaposteilarion2.melo
 meMA.Exaposteilarion2.incipit = me.m01.d12_en_US_dedes.meMA.Exaposteilarion2.incipit
 meMA.Exaposteilarion2.text = me.m01.d12_en_US_dedes.meMA.Exaposteilarion2.text
 
-meMA.Aposticha1.mode = me.m01.d12_en_US_dedes.meMA.Aposticha1.mode
-meMA.Aposticha1.greekmelody = me.m01.d12_en_US_dedes.meMA.Aposticha1.greekmelody
-meMA.Aposticha1.melody = me.m01.d12_en_US_oca.meMA.Aposticha1.melody
-meMA.Aposticha1.incipit = me.m01.d12_en_US_oca.meMA.Aposticha1.incipit
-meMA.Aposticha1.text = me.m01.d12_en_US_oca.meMA.Aposticha1.text
+meMA.Aposticha1.mode = me.m01.d12_en_US_goadedes.meMA.Aposticha1.mode
+meMA.Aposticha1.greekmelody = me.m01.d12_en_US_goadedes.meMA.Aposticha1.greekmelody
+meMA.Aposticha1.melody = me.m01.d12_en_US_goadedes.meMA.Aposticha1.melody
+meMA.Aposticha1.incipit = me.m01.d12_en_US_goadedes.meMA.Aposticha1.incipit
+meMA.Aposticha1.text = me.m01.d12_en_US_goadedes.meMA.Aposticha1.text
 
-meMA.Aposticha2.mode = me.m01.d12_en_US_dedes.meMA.Aposticha2.mode
-meMA.Aposticha2.melody = me.m01.d12_en_US_oca.meMA.Aposticha2.melody
-meMA.Aposticha2.incipit = me.m01.d12_en_US_oca.meMA.Aposticha2.incipit
-meMA.Aposticha2.text = me.m01.d12_en_US_oca.meMA.Aposticha2.text
+meMA.Aposticha2.mode = me.m01.d12_en_US_goadedes.meMA.Aposticha2.mode
+meMA.Aposticha2.melody = me.m01.d12_en_US_goadedes.meMA.Aposticha2.melody
+meMA.Aposticha2.incipit = me.m01.d12_en_US_goadedes.meMA.Aposticha2.incipit
+meMA.Aposticha2.text = me.m01.d12_en_US_goadedes.meMA.Aposticha2.text
 
-meMA.Aposticha3.mode = me.m01.d12_en_US_dedes.meMA.Aposticha3.mode
-meMA.Aposticha3.melody = me.m01.d12_en_US_oca.meMA.Aposticha3.melody
-meMA.Aposticha3.incipit = me.m01.d12_en_US_oca.meMA.Aposticha3.incipit
-meMA.Aposticha3.text = me.m01.d12_en_US_oca.meMA.Aposticha3.text
+meMA.Aposticha3.mode = me.m01.d12_en_US_goadedes.meMA.Aposticha3.mode
+meMA.Aposticha3.melody = me.m01.d12_en_US_goadedes.meMA.Aposticha3.melody
+meMA.Aposticha3.incipit = me.m01.d12_en_US_goadedes.meMA.Aposticha3.incipit
+meMA.Aposticha3.text = me.m01.d12_en_US_goadedes.meMA.Aposticha3.text
 
-meMA.AposGlory.mode = me.m01.d12_en_US_dedes.meMA.AposGlory.mode
-meMA.AposGlory.melody = me.m01.d12_en_US_oca.meMA.AposGlory.melody
-meMA.AposGlory.incipit = me.m01.d12_en_US_oca.meMA.AposGlory.incipit
-meMA.AposGlory.text = me.m01.d12_en_US_oca.meMA.AposGlory.text
+meMA.AposGlory.mode = me.m01.d12_en_US_goadedes.meMA.AposGlory.mode
+meMA.AposGlory.melody = me.m01.d12_en_US_goadedes.meMA.AposGlory.melody
+meMA.AposGlory.incipit = me.m01.d12_en_US_goadedes.meMA.AposGlory.incipit
+meMA.AposGlory.text = me.m01.d12_en_US_goadedes.meMA.AposGlory.text
 
 meLI.Megalynarion.text = me.m01.d12_en_US_dedes.meLI.Megalynarion.text
 
