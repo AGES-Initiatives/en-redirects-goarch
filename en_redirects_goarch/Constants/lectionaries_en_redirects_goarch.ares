@@ -113,6 +113,8 @@ lecEV.me.m10.dHF.R01 = lectionaries_en_US_goadedes.lecEV.me.m10.dHF.R01
 lecEV.me.m12.dFF.R01 = lectionaries_en_US_goadedes.lecEV.me.m12.dFF.R01
 lecEV.me.m12.dSunBE.R01 = lectionaries_en_US_goadedes.lecEV.me.m12.dSunBE.R01
 
+lecLE.SetEachYear.text = lectionaries_en_US_goadedes.lecLE.SetEachYear.text
+
 lecLE.separator = lectionaries_en_US_goadedes.lecLE.separator
 lecLE.openP = lectionaries_en_US_goadedes.lecLE.openP
 lecLE.closeP = lectionaries_en_US_goadedes.lecLE.closeP
