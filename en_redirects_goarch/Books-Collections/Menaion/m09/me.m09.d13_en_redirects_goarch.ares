@@ -901,7 +901,7 @@ meMA.LaudsGlory.text = me.m09.d13_en_US_dedes.meMA.LaudsGlory.text
 
 meMA.LaudsBoth.poet = me.m09.d13_en_US_dedes.meMA.LaudsBoth.poet
 meMA.LaudsBoth.mode = me.m09.d13_en_US_dedes.meMA.LaudsBoth.mode
-meMA.LaudsBoth.melody = me.m09.d13_en_US_oca.meMA.LaudsBoth.melody
+meMA.LaudsBoth.melody = me.m09.d13_en_US_dedes.meMA.LaudsBoth.melody
 meMA.LaudsBoth.incipit = me.m09.d13_en_US_oca.meMA.LaudsBoth.incipit
 meMA.LaudsBoth.text = me.m09.d13_en_US_oca.meMA.LaudsBoth.text
 

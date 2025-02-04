@@ -50,10 +50,10 @@ meVE.Stichera05.melody = me.m11.d23_en_US_goadedes.meVE.Stichera05.melody
 meVE.Stichera05.incipit = me.m11.d23_en_US_goadedes.meVE.Stichera05.incipit
 meVE.Stichera05.text = me.m11.d23_en_US_goadedes.meVE.Stichera05.text
 
-meVE.Stichera06.mode = me.m11.d23_en_US_dedes.meVE.Stichera06.mode
-meVE.Stichera06.melody = me.m11.d23_en_US_dedes.meVE.Stichera06.melody
-meVE.Stichera06.incipit = me.m11.d23_en_US_dedes.meVE.Stichera06.incipit
-meVE.Stichera06.text = me.m11.d23_en_US_dedes.meVE.Stichera06.text
+meVE.Stichera06.mode = me.m11.d23_en_US_goadedes.meVE.Stichera06.mode
+meVE.Stichera06.melody = me.m11.d23_en_US_goadedes.meVE.Stichera06.melody
+meVE.Stichera06.incipit = me.m11.d23_en_US_goadedes.meVE.Stichera06.incipit
+meVE.Stichera06.text = me.m11.d23_en_US_goadedes.meVE.Stichera06.text
 
 meVE.SticGlory.mode = me.m11.d23_en_US_dedes.meVE.SticGlory.mode
 meVE.SticGlory.melody = me.m11.d23_en_US_dedes.meVE.SticGlory.melody

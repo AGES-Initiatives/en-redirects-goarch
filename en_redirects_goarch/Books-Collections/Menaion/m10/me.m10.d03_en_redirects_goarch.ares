@@ -58,7 +58,7 @@ meVE.SticStavrotheotokion.incipit = me.m10.d03_en_US_dedes.meVE.SticStavrotheoto
 meVE.SticStavrotheotokion.text = me.m10.d03_en_US_dedes.meVE.SticStavrotheotokion.text
 
 meVE.AposGlory.mode = me.m10.d03_en_US_dedes.meVE.AposGlory.mode
-meVE.AposGlory.melody = me.m10.d03_en_US_oca.meVE.AposGlory.melody
+meVE.AposGlory.melody = me.m10.d03_en_US_dedes.meVE.AposGlory.melody
 meVE.AposGlory.incipit = me.m10.d03_en_US_oca.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m10.d03_en_US_oca.meVE.AposGlory.text
 
