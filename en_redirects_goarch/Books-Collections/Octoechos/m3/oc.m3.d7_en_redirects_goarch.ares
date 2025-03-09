@@ -773,10 +773,10 @@ octrMA.Kathisma14.melody = oc.m3.d7_en_US_goadedes.octrMA.Kathisma14.melody
 octrMA.Kathisma14.incipit = oc.m3.d7_en_US_goadedes.octrMA.Kathisma14.incipit
 octrMA.Kathisma14.text = oc.m3.d7_en_US_goadedes.octrMA.Kathisma14.text
 
-octrMA.Kathisma1T.mode = oc.m3.d7_en_US_dedes.octrMA.Kathisma1T.mode
-octrMA.Kathisma1T.melody = oc.m3.d7_en_US_dedes.octrMA.Kathisma1T.melody
-octrMA.Kathisma1T.incipit = oc.m3.d7_en_US_dedes.octrMA.Kathisma1T.incipit
-octrMA.Kathisma1T.text = oc.m3.d7_en_US_dedes.octrMA.Kathisma1T.text
+octrMA.Kathisma1T.mode = oc.m3.d7_en_US_goadedes.octrMA.Kathisma1T.mode
+octrMA.Kathisma1T.melody = oc.m3.d7_en_US_goadedes.octrMA.Kathisma1T.melody
+octrMA.Kathisma1T.incipit = oc.m3.d7_en_US_goadedes.octrMA.Kathisma1T.incipit
+octrMA.Kathisma1T.text = oc.m3.d7_en_US_goadedes.octrMA.Kathisma1T.text
 
 octrMA.Photogogic.mode = oc.m3.d7_en_US_dedes.octrMA.Photogogic.mode
 octrMA.Photogogic.incipit = oc.m3.d7_en_US_dedes.octrMA.Photogogic.incipit
