@@ -1,7 +1,5 @@
 A_Resource_Whose_Name = liturgical.verses_en_redirects_goarch
 
-//Vespers
-
 psVE.vespersentry.info = liturgical.verses_en_US_saas.psVE.vespersentry.info
 psVE.vespersentry.text = liturgical.verses_en_US_saas.psVE.vespersentry.text
 
@@ -390,15 +388,7 @@ psVE.saturday.aposverse.v3.info = liturgical.verses_en_US_saas.psVE.saturday.apo
 psVE.saturday.aposverse.v3.incipit = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v3.incipit
 psVE.saturday.aposverse.v3.text = liturgical.verses_en_US_saas.psVE.saturday.aposverse.v3.text
 
-goVE.songofsymeon.v1.info = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1.info
-goVE.songofsymeon.v1.incipit = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1.incipit
-goVE.songofsymeon.v1.text = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1.text
-goVE.songofsymeon.v1a.text = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1a.text
-goVE.songofsymeon.v1b.text = liturgical.verses_en_US_nkjv.goVE.songofsymeon.v1b.text
-
 //Matins
-goMA.sixpsalms.intro.v1.info = liturgical.verses_en_US_rsv.goMA.sixpsalms.intro.v1.info
-goMA.sixpsalms.intro.v1.text = liturgical.verses_en_US_rsv.goMA.sixpsalms.intro.v1.text
 psMA.sixpsalms.intro.v2.info = liturgical.verses_en_US_saas.psMA.sixpsalms.intro.v2.info
 psMA.sixpsalms.intro.v2.text = liturgical.verses_en_US_saas.psMA.sixpsalms.intro.v2.text
 psMA.sixpsalms.ps3.end.v1.info = liturgical.verses_en_US_saas.psMA.sixpsalms.ps3.end.v1.info
@@ -963,43 +953,6 @@ psMA.bode8.verse11.text = liturgical.verses_en_US_saas.psMA.bode8.verse11.text
 psMA.bode8.verse12.info = liturgical.verses_en_US_saas.psMA.bode8.verse12.info
 psMA.bode8.verse12.text = liturgical.verses_en_US_saas.psMA.bode8.verse12.text
 
-psMA.magnificat.title = liturgical.verses_en_US_nkjv.psMA.magnificat.title
-psMA.magnificat.v1.info = liturgical.verses_en_US_nkjv.psMA.magnificat.v1.info
-psMA.magnificat.v1.text = liturgical.verses_en_US_nkjv.psMA.magnificat.v1.text
-psMA.magnificat.v2.info = liturgical.verses_en_US_nkjv.psMA.magnificat.v2.info
-psMA.magnificat.v2.text = liturgical.verses_en_US_nkjv.psMA.magnificat.v2.text
-psMA.magnificat.v3.info = liturgical.verses_en_US_nkjv.psMA.magnificat.v3.info
-psMA.magnificat.v3.text = liturgical.verses_en_US_nkjv.psMA.magnificat.v3.text
-psMA.magnificat.v4.info = liturgical.verses_en_US_nkjv.psMA.magnificat.v4.info
-psMA.magnificat.v4.text = liturgical.verses_en_US_nkjv.psMA.magnificat.v4.text
-psMA.magnificat.v5.info = liturgical.verses_en_US_nkjv.psMA.magnificat.v5.info
-psMA.magnificat.v5.text = liturgical.verses_en_US_nkjv.psMA.magnificat.v5.text
-psMA.magnificat.v6.info = liturgical.verses_en_US_nkjv.psMA.magnificat.v6.info
-psMA.magnificat.v6.text = liturgical.verses_en_US_nkjv.psMA.magnificat.v6.text
-
-psMA.bode9.title = liturgical.verses_en_US_rsv.psMA.bode9.title
-psMA.bode9.refrain.text = liturgical.verses_en_US_rsv.psMA.bode9.refrain.text
-psMA.bode9.verse03.info = liturgical.verses_en_US_rsv.psMA.bode9.verse03.info
-psMA.bode9.verse03.text = liturgical.verses_en_US_rsv.psMA.bode9.verse03.text
-psMA.bode9.verse04.info = liturgical.verses_en_US_rsv.psMA.bode9.verse04.info
-psMA.bode9.verse04.text = liturgical.verses_en_US_rsv.psMA.bode9.verse04.text
-psMA.bode9.verse05.info = liturgical.verses_en_US_rsv.psMA.bode9.verse05.info
-psMA.bode9.verse05.text = liturgical.verses_en_US_rsv.psMA.bode9.verse05.text
-psMA.bode9.verse06.info = liturgical.verses_en_US_rsv.psMA.bode9.verse06.info
-psMA.bode9.verse06.text = liturgical.verses_en_US_rsv.psMA.bode9.verse06.text
-psMA.bode9.verse07.info = liturgical.verses_en_US_rsv.psMA.bode9.verse07.info
-psMA.bode9.verse07.text = liturgical.verses_en_US_rsv.psMA.bode9.verse07.text
-psMA.bode9.verse08.info = liturgical.verses_en_US_rsv.psMA.bode9.verse08.info
-psMA.bode9.verse08.text = liturgical.verses_en_US_rsv.psMA.bode9.verse08.text
-psMA.bode9.verse09.info = liturgical.verses_en_US_rsv.psMA.bode9.verse09.info
-psMA.bode9.verse09.text = liturgical.verses_en_US_rsv.psMA.bode9.verse09.text
-psMA.bode9.verse10.info = liturgical.verses_en_US_rsv.psMA.bode9.verse10.info
-psMA.bode9.verse10.text = liturgical.verses_en_US_rsv.psMA.bode9.verse10.text
-psMA.bode9.verse11.info = liturgical.verses_en_US_rsv.psMA.bode9.verse11.info
-psMA.bode9.verse11.text = liturgical.verses_en_US_rsv.psMA.bode9.verse11.text
-psMA.bode9.verse12.info = liturgical.verses_en_US_rsv.psMA.bode9.verse12.info
-psMA.bode9.verse12.text = liturgical.verses_en_US_rsv.psMA.bode9.verse12.text
-
 psMA.exapintro.v1.info = liturgical.verses_en_US_saas.psMA.exapintro.v1.info
 psMA.exapintro.v1.incipit = liturgical.verses_en_US_saas.psMA.exapintro.v1.incipit
 psMA.exapintro.v1.text = liturgical.verses_en_US_saas.psMA.exapintro.v1.text
@@ -1161,22 +1114,6 @@ psLI.typika.ps145.v9.info = liturgical.verses_en_US_saas.psLI.typika.ps145.v9.in
 psLI.typika.ps145.v9.text = liturgical.verses_en_US_saas.psLI.typika.ps145.v9.text
 psLI.typika.ps145.v10.info = liturgical.verses_en_US_saas.psLI.typika.ps145.v10.info
 psLI.typika.ps145.v10.text = liturgical.verses_en_US_saas.psLI.typika.ps145.v10.text
-
-goLI.typika.beatitudes.info = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.info
-goLI.typika.beatitudes.intro.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.intro.text
-goLI.typika.beatitudes.v01.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.v01.text
-goLI.typika.beatitudes.v02.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.v02.text
-goLI.typika.beatitudes.v03.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.v03.text
-goLI.typika.beatitudes.v04.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.v04.text
-goLI.typika.beatitudes.v05.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.v05.text
-goLI.typika.beatitudes.v06.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.v06.text
-goLI.typika.beatitudes.v07.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.v07.text
-goLI.typika.beatitudes.v08.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.v08.text
-goLI.typika.beatitudes.v09.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.v09.text
-goLI.typika.beatitudes.v10.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.v10.text
-goLI.typika.beatitudes.refrain1.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.refrain1.text
-goLI.typika.beatitudes.refrain2.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.refrain2.text
-goLI.typika.beatitudes.refrain3.text = liturgical.verses_en_US_rsv.goLI.typika.beatitudes.refrain3.text
 
 //angels see Σύστημα Τυπικοῦ p. 130
 psLI.angels.antiphon1.v1.info = liturgical.verses_en_US_saas.psLI.angels.antiphon1.v1.info
@@ -1656,6 +1593,40 @@ psGC.lordofpowers.v6.info = liturgical.verses_en_US_saas.psGC.lordofpowers.v6.in
 psGC.lordofpowers.v6.text = liturgical.verses_en_US_saas.psGC.lordofpowers.v6.text
 psGC.lordofpowers.v7.info = liturgical.verses_en_US_saas.psGC.lordofpowers.v7.info
 psGC.lordofpowers.v7.text = liturgical.verses_en_US_saas.psGC.lordofpowers.v7.text
+
+psLIPR.kairos.entry.v1.info = liturgical.verses_en_US_saas.psLIPR.kairos.entry.v1.info
+psLIPR.kairos.entry.v1.text = liturgical.verses_en_US_saas.psLIPR.kairos.entry.v1.text
+
+psLIPR.vesting.epimanikion_left.v1.info = liturgical.verses_en_US_saas.psLIPR.vesting.epimanikion_left.v1.info
+psLIPR.vesting.epimanikion_left.v1.text = liturgical.verses_en_US_saas.psLIPR.vesting.epimanikion_left.v1.text
+psLIPR.vesting.epitrachilion.v2.info = liturgical.verses_en_US_saas.psLIPR.vesting.epitrachilion.v2.info
+psLIPR.vesting.epitrachilion.v2.text = liturgical.verses_en_US_saas.psLIPR.vesting.epitrachilion.v2.text
+psLIPR.vesting.zone.v1.info = liturgical.verses_en_US_saas.psLIPR.vesting.zone.v1.info
+psLIPR.vesting.zone.v1.text = liturgical.verses_en_US_saas.psLIPR.vesting.zone.v1.text
+psLIPR.vesting.epigonation.v1.info = liturgical.verses_en_US_saas.psLIPR.vesting.epigonation.v1.info
+psLIPR.vesting.epigonation.v1.text = liturgical.verses_en_US_saas.psLIPR.vesting.epigonation.v1.text
+psLIPR.vesting.phelonion.v1.info = liturgical.verses_en_US_saas.psLIPR.vesting.phelonion.v1.info
+psLIPR.vesting.phelonion.v1.text = liturgical.verses_en_US_saas.psLIPR.vesting.phelonion.v1.text
+psLIPR.vesting.sakkos.v1.info = liturgical.verses_en_US_saas.psLIPR.vesting.sakkos.v1.info
+psLIPR.vesting.sakkos.v1.text = liturgical.verses_en_US_saas.psLIPR.vesting.sakkos.v1.text
+psLIPR.vesting.omophorion.v1.info = liturgical.verses_en_US_saas.psLIPR.vesting.omophorion.v1.info
+psLIPR.vesting.omophorion.v1.text = liturgical.verses_en_US_saas.psLIPR.vesting.omophorion.v1.text
+psLIPR.vesting.miter.v1.info = liturgical.verses_en_US_saas.psLIPR.vesting.miter.v1.info
+psLIPR.vesting.miter.v1.text = liturgical.verses_en_US_saas.psLIPR.vesting.miter.v1.text
+psLIPR.vesting.washing.v1.info = liturgical.verses_en_US_saas.psLIPR.vesting.washing.v1.info
+psLIPR.vesting.washing.v1.text = liturgical.verses_en_US_saas.psLIPR.vesting.washing.v1.text
+
+psLIPR.prothesis.v7.info = liturgical.verses_en_US_saas.psLIPR.prothesis.v7.info
+psLIPR.prothesis.v7.text = liturgical.verses_en_US_saas.psLIPR.prothesis.v7.text
+psLIPR.prothesis.v8.info = liturgical.verses_en_US_saas.psLIPR.prothesis.v8.info
+psLIPR.prothesis.v8.text = liturgical.verses_en_US_saas.psLIPR.prothesis.v8.text
+psLIPR.prothesis.v9.info = liturgical.verses_en_US_saas.psLIPR.prothesis.v9.info
+psLIPR.prothesis.v9.text = liturgical.verses_en_US_saas.psLIPR.prothesis.v9.text
+
+psLIPR.preliminary.v2.info = liturgical.verses_en_US_saas.psLIPR.preliminary.v2.info
+psLIPR.preliminary.v2.text = liturgical.verses_en_US_saas.psLIPR.preliminary.v2.text
+psLIPR.preliminary.v3.info = liturgical.verses_en_US_saas.psLIPR.preliminary.v3.info
+psLIPR.preliminary.v3.text = liturgical.verses_en_US_saas.psLIPR.preliminary.v3.text
 
 //Selected Psalm Verses for Polyeleos and Communion Hymns
 
