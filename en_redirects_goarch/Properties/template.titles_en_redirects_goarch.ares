@@ -1,378 +1,378 @@
 A_Resource_Whose_Name = template.titles_en_redirects_goarch
 
 //books - collections
-eo = template.titles_en_US_dedes.eo
-eu = template.titles_en_US_dedes.eu
-he = template.titles_en_US_dedes.he
-hi = template.titles_en_US_dedes.hi
-ho = template.titles_en_US_dedes.ho
-ka = template.titles_en_US_dedes.ka
-le = template.titles_en_US_dedes.le
-me = template.titles_en_US_dedes.me
-oc = template.titles_en_US_dedes.oc
-oc.html.tab = template.titles_en_US_dedes.oc.html.tab
-oc.pdf.header = template.titles_en_US_dedes.oc.pdf.header
-oc.pdf.cover = template.titles_en_US_dedes.oc.pdf.cover
-pe = template.titles_en_US_dedes.pe
-ps = template.titles_en_US_dedes.ps
-sy = template.titles_en_US_dedes.sy
-tr = template.titles_en_US_dedes.tr
+eo = template.titles_en_US_goa.eo
+eu = template.titles_en_US_goa.eu
+he = template.titles_en_US_goa.he
+hi = template.titles_en_US_goa.hi
+ho = template.titles_en_US_goa.ho
+ka = template.titles_en_US_goa.ka
+le = template.titles_en_US_goa.le
+me = template.titles_en_US_goa.me
+oc = template.titles_en_US_goa.oc
+oc.html.tab = template.titles_en_US_goa.oc.html.tab
+oc.pdf.header = template.titles_en_US_goa.oc.pdf.header
+oc.pdf.cover = template.titles_en_US_goa.oc.pdf.cover
+pe = template.titles_en_US_goa.pe
+ps = template.titles_en_US_goa.ps
+sy = template.titles_en_US_goa.sy
+tr = template.titles_en_US_goa.tr
 
 //service days
-sat = template.titles_en_US_dedes.sat
-sun = template.titles_en_US_dedes.sun
-wkd = template.titles_en_US_dedes.wkd
+sat = template.titles_en_US_goa.sat
+sun = template.titles_en_US_goa.sun
+wkd = template.titles_en_US_goa.wkd
 
 //sacraments
-bap.html.tab = template.titles_en_US_dedes.bap.html.tab
-bap.pdf.header = template.titles_en_US_dedes.bap.pdf.header
-bap.pdf.cover = template.titles_en_US_dedes.bap.pdf.cover
+bap.html.tab = template.titles_en_US_goa.bap.html.tab
+bap.pdf.header = template.titles_en_US_goa.bap.pdf.header
+bap.pdf.cover = template.titles_en_US_goa.bap.pdf.cover
 
-cdo.html.tab = template.titles_en_US_dedes.cdo.html.tab
-cdo.pdf.header = template.titles_en_US_dedes.cdo.pdf.header
-cdo.pdf.cover = template.titles_en_US_dedes.cdo.pdf.cover
+cdo.html.tab = template.titles_en_US_goa.cdo.html.tab
+cdo.pdf.header = template.titles_en_US_goa.cdo.pdf.header
+cdo.pdf.cover = template.titles_en_US_goa.cdo.pdf.cover
 
-chi.html.tab = template.titles_en_US_dedes.chi.html.tab
-chi.pdf.header = template.titles_en_US_dedes.chi.pdf.header
-chi.pdf.cover = template.titles_en_US_dedes.chi.pdf.cover
+chi.html.tab = template.titles_en_US_goa.chi.html.tab
+chi.pdf.header = template.titles_en_US_goa.chi.pdf.header
+chi.pdf.cover = template.titles_en_US_goa.chi.pdf.cover
 
-con.html.tab = template.titles_en_US_dedes.con.html.tab
-con.pdf.header = template.titles_en_US_dedes.con.pdf.header
-con.pdf.cover = template.titles_en_US_dedes.con.pdf.cover
+con.html.tab = template.titles_en_US_goa.con.html.tab
+con.pdf.header = template.titles_en_US_goa.con.pdf.header
+con.pdf.cover = template.titles_en_US_goa.con.pdf.cover
 
-fun.html.tab = template.titles_en_US_dedes.fun.html.tab
-fun.pdf.header = template.titles_en_US_dedes.fun.pdf.header
-fun.pdf.cover = template.titles_en_US_dedes.fun.pdf.cover
+fun.html.tab = template.titles_en_US_goa.fun.html.tab
+fun.pdf.header = template.titles_en_US_goa.fun.pdf.header
+fun.pdf.cover = template.titles_en_US_goa.fun.pdf.cover
 
-mem.html.tab = template.titles_en_US_dedes.mem.html.tab
-mem.pdf.header = template.titles_en_US_dedes.mem.pdf.header
-mem.pdf.cover = template.titles_en_US_dedes.mem.pdf.cover
+mem.html.tab = template.titles_en_US_goa.mem.html.tab
+mem.pdf.header = template.titles_en_US_goa.mem.pdf.header
+mem.pdf.cover = template.titles_en_US_goa.mem.pdf.cover
 
-ord.html.tab = template.titles_en_US_dedes.ord.html.tab
-ord.pdf.header = template.titles_en_US_dedes.ord.pdf.header
-ord.pdf.cover = template.titles_en_US_dedes.ord.pdf.cover
+ord.html.tab = template.titles_en_US_goa.ord.html.tab
+ord.pdf.header = template.titles_en_US_goa.ord.pdf.header
+ord.pdf.cover = template.titles_en_US_goa.ord.pdf.cover
 
-pen.html.tab = template.titles_en_US_dedes.pen.html.tab
-pen.pdf.header = template.titles_en_US_dedes.pen.pdf.header
-pen.pdf.cover = template.titles_en_US_dedes.pen.pdf.cover
+pen.html.tab = template.titles_en_US_goa.pen.html.tab
+pen.pdf.header = template.titles_en_US_goa.pen.pdf.header
+pen.pdf.cover = template.titles_en_US_goa.pen.pdf.cover
 
-swb.html.tab = template.titles_en_US_dedes.swb.html.tab
-swb.pdf.header = template.titles_en_US_dedes.swb.pdf.header
-swb.pdf.cover = template.titles_en_US_dedes.swb.pdf.cover
+swb.html.tab = template.titles_en_US_goa.swb.html.tab
+swb.pdf.header = template.titles_en_US_goa.swb.pdf.header
+swb.pdf.cover = template.titles_en_US_goa.swb.pdf.cover
 
-unc.html.tab = template.titles_en_US_dedes.unc.html.tab 
-unc.pdf.header = template.titles_en_US_dedes.unc.pdf.header
-unc.pdf.cover = template.titles_en_US_dedes.unc.pdf.cover
+unc.html.tab = template.titles_en_US_goa.unc.html.tab 
+unc.pdf.header = template.titles_en_US_goa.unc.pdf.header
+unc.pdf.cover = template.titles_en_US_goa.unc.pdf.cover
 
-wed.html.tab = template.titles_en_US_dedes.wed.html.tab
-wed.pdf.header = template.titles_en_US_dedes.wed.pdf.header
-wed.pdf.cover = template.titles_en_US_dedes.wed.pdf.cover
+wed.html.tab = template.titles_en_US_goa.wed.html.tab
+wed.pdf.header = template.titles_en_US_goa.wed.pdf.header
+wed.pdf.cover = template.titles_en_US_goa.wed.pdf.cover
 
 //service names
-service = template.titles_en_US_dedes.service
+service = template.titles_en_US_goa.service
 
-co.html.tab = template.titles_en_US_dedes.co.html.tab 
-co.pdf.header = template.titles_en_US_dedes.co.pdf.header
-co.pdf.cover = template.titles_en_US_dedes.co.pdf.cover
-co.smallcompline.html.tab = template.titles_en_US_dedes.co.smallcompline.html.tab
-co.smallcompline.pdf.cover = template.titles_en_US_dedes.co.smallcompline.pdf.cover
-co.smallcompline.pdf.header = template.titles_en_US_dedes.co.smallcompline.pdf.header
-co.smallcomplinewithcanon.html.tab = template.titles_en_US_dedes.co.smallcomplinewithcanon.html.tab
-co.smallcomplinewithcanon.pdf.cover = template.titles_en_US_dedes.co.smallcomplinewithcanon.pdf.cover
-co.smallcomplinewithcanon.pdf.header = template.titles_en_US_dedes.co.smallcomplinewithcanon.pdf.header
-co.akathist.html.tab = template.titles_en_US_dedes.co.akathist.html.tab
-co.akathist.pdf.header = template.titles_en_US_dedes.co.akathist.pdf.header
-co.akathist.pdf.cover = template.titles_en_US_dedes.co.akathist.pdf.cover
-co.salutations.pdf.cover = template.titles_en_US_dedes.co.salutations.pdf.cover
-co.salutations.pdf.header = template.titles_en_US_dedes.co.salutations.pdf.header
-co.greatcanon.html.tab = template.titles_en_US_dedes.co.greatcanon.html.tab
-co.greatcanon.pdf.cover = template.titles_en_US_dedes.co.greatcanon.pdf.cover
-co.greatcanon.pdf.header = template.titles_en_US_dedes.co.greatcanon.pdf.header
-co.greatcompline.pdf.cover = template.titles_en_US_dedes.co.greatcompline.pdf.cover
-co.greatcompline.pdf.header = template.titles_en_US_dedes.co.greatcompline.pdf.header
-co.christmasvigil.html.tab = template.titles_en_US_dedes.co.christmasvigil.html.tab
-co.christmasvigil.pdf.cover = template.titles_en_US_dedes.co.christmasvigil.pdf.cover
-co.christmasvigil.pdf.header = template.titles_en_US_dedes.co.christmasvigil.pdf.header
-co.epiphanyvigil.html.tab = template.titles_en_US_dedes.co.epiphanyvigil.html.tab
-co.epiphanyvigil.pdf.cover = template.titles_en_US_dedes.co.epiphanyvigil.pdf.cover
-co.epiphanyvigil.pdf.header = template.titles_en_US_dedes.co.epiphanyvigil.pdf.header
+co.html.tab = template.titles_en_US_goa.co.html.tab 
+co.pdf.header = template.titles_en_US_goa.co.pdf.header
+co.pdf.cover = template.titles_en_US_goa.co.pdf.cover
+co.smallcompline.html.tab = template.titles_en_US_goa.co.smallcompline.html.tab
+co.smallcompline.pdf.cover = template.titles_en_US_goa.co.smallcompline.pdf.cover
+co.smallcompline.pdf.header = template.titles_en_US_goa.co.smallcompline.pdf.header
+co.smallcomplinewithcanon.html.tab = template.titles_en_US_goa.co.smallcomplinewithcanon.html.tab
+co.smallcomplinewithcanon.pdf.cover = template.titles_en_US_goa.co.smallcomplinewithcanon.pdf.cover
+co.smallcomplinewithcanon.pdf.header = template.titles_en_US_goa.co.smallcomplinewithcanon.pdf.header
+co.akathist.html.tab = template.titles_en_US_goa.co.akathist.html.tab
+co.akathist.pdf.header = template.titles_en_US_goa.co.akathist.pdf.header
+co.akathist.pdf.cover = template.titles_en_US_goa.co.akathist.pdf.cover
+co.salutations.pdf.cover = template.titles_en_US_goa.co.salutations.pdf.cover
+co.salutations.pdf.header = template.titles_en_US_goa.co.salutations.pdf.header
+co.greatcanon.html.tab = template.titles_en_US_goa.co.greatcanon.html.tab
+co.greatcanon.pdf.cover = template.titles_en_US_goa.co.greatcanon.pdf.cover
+co.greatcanon.pdf.header = template.titles_en_US_goa.co.greatcanon.pdf.header
+co.greatcompline.pdf.cover = template.titles_en_US_goa.co.greatcompline.pdf.cover
+co.greatcompline.pdf.header = template.titles_en_US_goa.co.greatcompline.pdf.header
+co.christmasvigil.html.tab = template.titles_en_US_goa.co.christmasvigil.html.tab
+co.christmasvigil.pdf.cover = template.titles_en_US_goa.co.christmasvigil.pdf.cover
+co.christmasvigil.pdf.header = template.titles_en_US_goa.co.christmasvigil.pdf.header
+co.epiphanyvigil.html.tab = template.titles_en_US_goa.co.epiphanyvigil.html.tab
+co.epiphanyvigil.pdf.cover = template.titles_en_US_goa.co.epiphanyvigil.pdf.cover
+co.epiphanyvigil.pdf.header = template.titles_en_US_goa.co.epiphanyvigil.pdf.header
 
-co1.html.tab = template.titles_en_US_dedes.co1.html.tab //this is the pre-resurrection service of Pascha
-co1.pdf.header = template.titles_en_US_dedes.co1.pdf.header
-co1.pdf.cover = template.titles_en_US_dedes.co1.pdf.cover
+co1.html.tab = template.titles_en_US_goa.co1.html.tab //this is the pre-resurrection service of Pascha
+co1.pdf.header = template.titles_en_US_goa.co1.pdf.header
+co1.pdf.cover = template.titles_en_US_goa.co1.pdf.cover
 
-co2.html.tab = template.titles_en_US_dedes.co2.html.tab 
-co2.pdf.header = template.titles_en_US_dedes.co2.pdf.header
-co2.pdf.cover = template.titles_en_US_dedes.co2.pdf.cover
+co2.html.tab = template.titles_en_US_goa.co2.html.tab 
+co2.pdf.header = template.titles_en_US_goa.co2.pdf.header
+co2.pdf.cover = template.titles_en_US_goa.co2.pdf.cover
 
-co3.html.tab = template.titles_en_US_dedes.co3.html.tab 
-co3.pdf.header = template.titles_en_US_dedes.co3.pdf.header
-co3.pdf.cover = template.titles_en_US_dedes.co3.pdf.cover
+co3.html.tab = template.titles_en_US_goa.co3.html.tab 
+co3.pdf.header = template.titles_en_US_goa.co3.pdf.header
+co3.pdf.cover = template.titles_en_US_goa.co3.pdf.cover
 
-co4.html.tab = template.titles_en_US_dedes.co4.html.tab 
-co4.pdf.header = template.titles_en_US_dedes.co4.pdf.header
-co4.pdf.cover = template.titles_en_US_dedes.co4.pdf.cover
+co4.html.tab = template.titles_en_US_goa.co4.html.tab 
+co4.pdf.header = template.titles_en_US_goa.co4.pdf.header
+co4.pdf.cover = template.titles_en_US_goa.co4.pdf.cover
 
-co6.html.tab = template.titles_en_US_dedes.co6.html.tab 
-co6.pdf.header = template.titles_en_US_dedes.co6.pdf.header
-co6.pdf.cover = template.titles_en_US_dedes.co6.pdf.cover
+co6.html.tab = template.titles_en_US_goa.co6.html.tab 
+co6.pdf.header = template.titles_en_US_goa.co6.pdf.header
+co6.pdf.cover = template.titles_en_US_goa.co6.pdf.cover
 
-dr.html.tab = template.titles_en_US_dedes.dr.html.tab 
-dr.pdf.header = template.titles_en_US_dedes.dr.html.tab 
-dr.pdf.cover = template.titles_en_US_dedes.dr.html.tab 
+dr.html.tab = template.titles_en_US_goa.dr.html.tab 
+dr.pdf.header = template.titles_en_US_goa.dr.html.tab 
+dr.pdf.cover = template.titles_en_US_goa.dr.html.tab 
 
-em.html.tab = template.titles_en_US_dedes.em.html.tab 
-em.pdf.header = template.titles_en_US_dedes.em.pdf.header
-em.pdf.cover = template.titles_en_US_dedes.em.pdf.cover
+em.html.tab = template.titles_en_US_goa.em.html.tab 
+em.pdf.header = template.titles_en_US_goa.em.pdf.header
+em.pdf.cover = template.titles_en_US_goa.em.pdf.cover
 
-em3.html.tab = template.titles_en_US_dedes.em3.html.tab 
-em3.pdf.header = template.titles_en_US_dedes.em3.pdf.header
-em3.pdf.cover = template.titles_en_US_dedes.em3.pdf.cover
+em3.html.tab = template.titles_en_US_goa.em3.html.tab 
+em3.pdf.header = template.titles_en_US_goa.em3.pdf.header
+em3.pdf.cover = template.titles_en_US_goa.em3.pdf.cover
 
-gc.html.tab = template.titles_en_US_dedes.gc.html.tab
-gc.pdf.header = template.titles_en_US_dedes.gc.pdf.header
-gc.pdf.cover = template.titles_en_US_dedes.gc.pdf.cover
+gc.html.tab = template.titles_en_US_goa.gc.html.tab
+gc.pdf.header = template.titles_en_US_goa.gc.pdf.header
+gc.pdf.cover = template.titles_en_US_goa.gc.pdf.cover
 
-gh.html.tab = template.titles_en_US_dedes.gh.html.tab 
-gh.pdf.header = template.titles_en_US_dedes.gh.pdf.header
-gh.pdf.cover = template.titles_en_US_dedes.gh.pdf.cover
+gh.html.tab = template.titles_en_US_goa.gh.html.tab 
+gh.pdf.header = template.titles_en_US_goa.gh.pdf.header
+gh.pdf.cover = template.titles_en_US_goa.gh.pdf.cover
 
-gp.html.tab = template.titles_en_US_dedes.gp.html.tab
-gp.pdf.header = template.titles_en_US_dedes.gp.pdf.header
-gp.pdf.cover = template.titles_en_US_dedes.gp.pdf.cover
+gp.html.tab = template.titles_en_US_goa.gp.html.tab
+gp.pdf.header = template.titles_en_US_goa.gp.pdf.header
+gp.pdf.cover = template.titles_en_US_goa.gp.pdf.cover
 
-h1.html.tab = template.titles_en_US_dedes.h1.html.tab 
-h1.pdf.header = template.titles_en_US_dedes.h1.pdf.header
-h1.pdf.cover = template.titles_en_US_dedes.h1.pdf.cover
+h1.html.tab = template.titles_en_US_goa.h1.html.tab 
+h1.pdf.header = template.titles_en_US_goa.h1.pdf.header
+h1.pdf.cover = template.titles_en_US_goa.h1.pdf.cover
 
-h13.html.tab = template.titles_en_US_dedes.h13.html.tab
-h13.pdf.header = template.titles_en_US_dedes.h13.pdf.header
-h13.pdf.cover = template.titles_en_US_dedes.h13.pdf.cover
+h13.html.tab = template.titles_en_US_goa.h13.html.tab
+h13.pdf.header = template.titles_en_US_goa.h13.pdf.header
+h13.pdf.cover = template.titles_en_US_goa.h13.pdf.cover
 
-h3.html.tab = template.titles_en_US_dedes.h3.html.tab 
-h3.pdf.header = template.titles_en_US_dedes.h3.pdf.header
-h3.pdf.cover = template.titles_en_US_dedes.h3.pdf.cover
+h3.html.tab = template.titles_en_US_goa.h3.html.tab 
+h3.pdf.header = template.titles_en_US_goa.h3.pdf.header
+h3.pdf.cover = template.titles_en_US_goa.h3.pdf.cover
 
-h36.html.tab = template.titles_en_US_dedes.h36.html.tab 
-h36.pdf.header = template.titles_en_US_dedes.h36.pdf.header
-h36.pdf.cover = template.titles_en_US_dedes.h36.pdf.cover
+h36.html.tab = template.titles_en_US_goa.h36.html.tab 
+h36.pdf.header = template.titles_en_US_goa.h36.pdf.header
+h36.pdf.cover = template.titles_en_US_goa.h36.pdf.cover
 
-h6.html.tab = template.titles_en_US_dedes.h6.html.tab 
-h6.pdf.header = template.titles_en_US_dedes.h6.pdf.header
-h6.pdf.cover = template.titles_en_US_dedes.h6.pdf.cover
+h6.html.tab = template.titles_en_US_goa.h6.html.tab 
+h6.pdf.header = template.titles_en_US_goa.h6.pdf.header
+h6.pdf.cover = template.titles_en_US_goa.h6.pdf.cover
 
-h61.html.tab = template.titles_en_US_dedes.h61.html.tab 
-h61.pdf.header = template.titles_en_US_dedes.h61.pdf.header
-h61.pdf.cover = template.titles_en_US_dedes.h61.pdf.cover
+h61.html.tab = template.titles_en_US_goa.h61.html.tab 
+h61.pdf.header = template.titles_en_US_goa.h61.pdf.header
+h61.pdf.cover = template.titles_en_US_goa.h61.pdf.cover
 
-h9.html.tab = template.titles_en_US_dedes.h9.html.tab 
-h9.pdf.header = template.titles_en_US_dedes.h9.pdf.header
-h9.pdf.cover = template.titles_en_US_dedes.h9.pdf.cover
+h9.html.tab = template.titles_en_US_goa.h9.html.tab 
+h9.pdf.header = template.titles_en_US_goa.h9.pdf.header
+h9.pdf.cover = template.titles_en_US_goa.h9.pdf.cover
 
-h91.html.tab = template.titles_en_US_dedes.h91.html.tab 
-h91.pdf.header = template.titles_en_US_dedes.h91.pdf.header
-h91.pdf.cover = template.titles_en_US_dedes.h91.pdf.cover
+h91.html.tab = template.titles_en_US_goa.h91.html.tab 
+h91.pdf.header = template.titles_en_US_goa.h91.pdf.header
+h91.pdf.cover = template.titles_en_US_goa.h91.pdf.cover
 
-h92.html.tab = template.titles_en_US_dedes.h92.html.tab 
-h92.pdf.header = template.titles_en_US_dedes.h92.pdf.header
-h92.pdf.cover = template.titles_en_US_dedes.h92.pdf.cover
+h92.html.tab = template.titles_en_US_goa.h92.html.tab 
+h92.pdf.header = template.titles_en_US_goa.h92.pdf.header
+h92.pdf.cover = template.titles_en_US_goa.h92.pdf.cover
 
-hw.pdf.cover = template.titles_en_US_dedes.hw.pdf.cover
+hw.pdf.cover = template.titles_en_US_goa.hw.pdf.cover
 
-li.html.tab = template.titles_en_US_dedes.li.html.tab 
-li.pdf.header = template.titles_en_US_dedes.li.pdf.header
-li.pdf.cover = template.titles_en_US_dedes.li.pdf.cover
+li.html.tab = template.titles_en_US_goa.li.html.tab 
+li.pdf.header = template.titles_en_US_goa.li.pdf.header
+li.pdf.cover = template.titles_en_US_goa.li.pdf.cover
 
-li1.html.tab = template.titles_en_US_dedes.li1.html.tab 
-li1.pdf.header = template.titles_en_US_dedes.li1.pdf.header
-li1.pdf.cover = template.titles_en_US_dedes.li1.pdf.cover
+li1.html.tab = template.titles_en_US_goa.li1.html.tab 
+li1.pdf.header = template.titles_en_US_goa.li1.pdf.header
+li1.pdf.cover = template.titles_en_US_goa.li1.pdf.cover
 
-li2.html.tab = template.titles_en_US_dedes.li2.html.tab 
-li2.pdf.header = template.titles_en_US_dedes.li2.pdf.header
-li2.pdf.cover = template.titles_en_US_dedes.li2.pdf.cover
+li2.html.tab = template.titles_en_US_goa.li2.html.tab 
+li2.pdf.header = template.titles_en_US_goa.li2.pdf.header
+li2.pdf.cover = template.titles_en_US_goa.li2.pdf.cover
 
-li3.html.tab = template.titles_en_US_dedes.li3.html.tab 
-li3.pdf.header = template.titles_en_US_dedes.li3.pdf.header
-li3.pdf.cover = template.titles_en_US_dedes.li3.pdf.cover
+li3.html.tab = template.titles_en_US_goa.li3.html.tab 
+li3.pdf.header = template.titles_en_US_goa.li3.pdf.header
+li3.pdf.cover = template.titles_en_US_goa.li3.pdf.cover
 
-li4.html.tab = template.titles_en_US_dedes.li4.html.tab 
-li4.pdf.header = template.titles_en_US_dedes.li4.pdf.header
-li4.pdf.cover = template.titles_en_US_dedes.li4.pdf.cover
+li4.html.tab = template.titles_en_US_goa.li4.html.tab 
+li4.pdf.header = template.titles_en_US_goa.li4.pdf.header
+li4.pdf.cover = template.titles_en_US_goa.li4.pdf.cover
 
-li5.html.tab = template.titles_en_US_dedes.li5.html.tab 
-li5.pdf.header = template.titles_en_US_dedes.li5.pdf.header
-li5.pdf.cover = template.titles_en_US_dedes.li5.pdf.cover
+li5.html.tab = template.titles_en_US_goa.li5.html.tab 
+li5.pdf.header = template.titles_en_US_goa.li5.pdf.header
+li5.pdf.cover = template.titles_en_US_goa.li5.pdf.cover
 
-li6.html.tab = template.titles_en_US_dedes.li5.html.tab 
-li6.pdf.header = template.titles_en_US_dedes.li5.pdf.header
-li6.pdf.cover = template.titles_en_US_dedes.li5.pdf.cover
+li6.html.tab = template.titles_en_US_goa.li5.html.tab 
+li6.pdf.header = template.titles_en_US_goa.li5.pdf.header
+li6.pdf.cover = template.titles_en_US_goa.li5.pdf.cover
 
-li7.html.tab = template.titles_en_US_dedes.li5.html.tab 
-li7.pdf.header = template.titles_en_US_dedes.li5.pdf.header
-li7.pdf.cover = template.titles_en_US_dedes.li5.pdf.cover
+li7.html.tab = template.titles_en_US_goa.li5.html.tab 
+li7.pdf.header = template.titles_en_US_goa.li5.pdf.header
+li7.pdf.cover = template.titles_en_US_goa.li5.pdf.cover
 
-li8.html.tab = template.titles_en_US_dedes.li8.html.tab
-li8.pdf.header = template.titles_en_US_dedes.li8.pdf.header 
-li8.pdf.cover = template.titles_en_US_dedes.li8.pdf.cover
+li8.html.tab = template.titles_en_US_goa.li8.html.tab
+li8.pdf.header = template.titles_en_US_goa.li8.pdf.header 
+li8.pdf.cover = template.titles_en_US_goa.li8.pdf.cover
 
-li9.html.tab = template.titles_en_US_dedes.li9.html.tab 
-li9.pdf.header = template.titles_en_US_dedes.li9.pdf.header
-li9.pdf.cover = template.titles_en_US_dedes.li9.pdf.cover
+li9.html.tab = template.titles_en_US_goa.li9.html.tab 
+li9.pdf.header = template.titles_en_US_goa.li9.pdf.header
+li9.pdf.cover = template.titles_en_US_goa.li9.pdf.cover
 
-ma.html.tab = template.titles_en_US_dedes.ma.html.tab 
-ma.pdf.header = template.titles_en_US_dedes.ma.pdf.header
-ma.pdf.cover = template.titles_en_US_dedes.ma.pdf.cover
+ma.html.tab = template.titles_en_US_goa.ma.html.tab 
+ma.pdf.header = template.titles_en_US_goa.ma.pdf.header
+ma.pdf.cover = template.titles_en_US_goa.ma.pdf.cover
 
-ma2.html.tab = template.titles_en_US_dedes.ma2.html.tab 
-ma2.pdf.header = template.titles_en_US_dedes.ma2.pdf.header
-ma2.pdf.cover = template.titles_en_US_dedes.ma2.pdf.cover
+ma2.html.tab = template.titles_en_US_goa.ma2.html.tab 
+ma2.pdf.header = template.titles_en_US_goa.ma2.pdf.header
+ma2.pdf.cover = template.titles_en_US_goa.ma2.pdf.cover
 
-ma3.html.tab = template.titles_en_US_dedes.ma3.html.tab 
-ma3.pdf.header = template.titles_en_US_dedes.ma3.pdf.header
-ma3.pdf.cover = template.titles_en_US_dedes.ma3.pdf.cover
+ma3.html.tab = template.titles_en_US_goa.ma3.html.tab 
+ma3.pdf.header = template.titles_en_US_goa.ma3.pdf.header
+ma3.pdf.cover = template.titles_en_US_goa.ma3.pdf.cover
 
-ma4.html.tab = template.titles_en_US_dedes.ma4.html.tab 
-ma4.pdf.header = template.titles_en_US_dedes.ma4.pdf.header
-ma4.pdf.cover = template.titles_en_US_dedes.ma4.pdf.cover
+ma4.html.tab = template.titles_en_US_goa.ma4.html.tab 
+ma4.pdf.header = template.titles_en_US_goa.ma4.pdf.header
+ma4.pdf.cover = template.titles_en_US_goa.ma4.pdf.cover
 
-ma5.html.tab = template.titles_en_US_dedes.ma5.html.tab 
-ma5.pdf.header = template.titles_en_US_dedes.ma5.pdf.header
-ma5.pdf.cover = template.titles_en_US_dedes.ma5.pdf.cover
+ma5.html.tab = template.titles_en_US_goa.ma5.html.tab 
+ma5.pdf.header = template.titles_en_US_goa.ma5.pdf.header
+ma5.pdf.cover = template.titles_en_US_goa.ma5.pdf.cover
 
-mo.html.tab = template.titles_en_US_dedes.mo.html.tab 
-mo.pdf.header = template.titles_en_US_dedes.mo.pdf.header
-mo.pdf.cover = template.titles_en_US_dedes.mo.pdf.cover
+mo.html.tab = template.titles_en_US_goa.mo.html.tab 
+mo.pdf.header = template.titles_en_US_goa.mo.pdf.header
+mo.pdf.cover = template.titles_en_US_goa.mo.pdf.cover
 
-mo1.html.tab = template.titles_en_US_dedes.mo1.html.tab
-mo1.pdf.header = template.titles_en_US_dedes.mo1.pdf.header
-mo1.pdf.cover = template.titles_en_US_dedes.mo1.pdf.cover
+mo1.html.tab = template.titles_en_US_goa.mo1.html.tab
+mo1.pdf.header = template.titles_en_US_goa.mo1.pdf.header
+mo1.pdf.cover = template.titles_en_US_goa.mo1.pdf.cover
 
-mo6.html.tab = template.titles_en_US_dedes.mo6.html.tab 
-mo6.pdf.header = template.titles_en_US_dedes.mo6.pdf.header
-mo6.pdf.cover = template.titles_en_US_dedes.mo6.pdf.cover
+mo6.html.tab = template.titles_en_US_goa.mo6.html.tab 
+mo6.pdf.header = template.titles_en_US_goa.mo6.pdf.header
+mo6.pdf.cover = template.titles_en_US_goa.mo6.pdf.cover
 
-pl.html.tab = template.titles_en_US_dedes.pl.html.tab 
-pl.pdf.header = template.titles_en_US_dedes.pl.pdf.header
-pl.pdf.cover = template.titles_en_US_dedes.pl.pdf.cover
+pl.html.tab = template.titles_en_US_goa.pl.html.tab 
+pl.pdf.header = template.titles_en_US_goa.pl.pdf.header
+pl.pdf.cover = template.titles_en_US_goa.pl.pdf.cover
 
-sp.html.tab = template.titles_en_US_dedes.sp.html.tab
-sp.pdf.header = template.titles_en_US_dedes.sp.pdf.header
-sp.pdf.cover = template.titles_en_US_dedes.sp.pdf.cover
+sp.html.tab = template.titles_en_US_goa.sp.html.tab
+sp.pdf.header = template.titles_en_US_goa.sp.pdf.header
+sp.pdf.cover = template.titles_en_US_goa.sp.pdf.cover
 
-sv.html.tab = template.titles_en_US_dedes.sv.html.tab 
-sv.pdf.header = template.titles_en_US_dedes.sv.pdf.header
-sv.pdf.cover = template.titles_en_US_dedes.sv.pdf.cover
+sv.html.tab = template.titles_en_US_goa.sv.html.tab 
+sv.pdf.header = template.titles_en_US_goa.sv.pdf.header
+sv.pdf.cover = template.titles_en_US_goa.sv.pdf.cover
 
-sv3.html.tab = template.titles_en_US_dedes.sv3.html.tab 
-sv3.pdf.header = template.titles_en_US_dedes.sv3.pdf.header
-sv3.pdf.cover = template.titles_en_US_dedes.sv3.pdf.cover
+sv3.html.tab = template.titles_en_US_goa.sv3.html.tab 
+sv3.pdf.header = template.titles_en_US_goa.sv3.pdf.header
+sv3.pdf.cover = template.titles_en_US_goa.sv3.pdf.cover
 
-ve.html.tab = template.titles_en_US_dedes.ve.html.tab 
-ve.pdf.header = template.titles_en_US_dedes.ve.pdf.header
-ve.pdf.cover = template.titles_en_US_dedes.ve.pdf.cover
+ve.html.tab = template.titles_en_US_goa.ve.html.tab 
+ve.pdf.header = template.titles_en_US_goa.ve.pdf.header
+ve.pdf.cover = template.titles_en_US_goa.ve.pdf.cover
 
-ve2.html.tab = template.titles_en_US_dedes.ve2.html.tab 
-ve2.pdf.header = template.titles_en_US_dedes.ve2.pdf.header
-ve2.pdf.cover = template.titles_en_US_dedes.ve2.pdf.cover
+ve2.html.tab = template.titles_en_US_goa.ve2.html.tab 
+ve2.pdf.header = template.titles_en_US_goa.ve2.pdf.header
+ve2.pdf.cover = template.titles_en_US_goa.ve2.pdf.cover
 
-ve3.html.tab = template.titles_en_US_dedes.ve3.html.tab 
-ve3.pdf.header = template.titles_en_US_dedes.ve.pdf.header
-ve3.pdf.cover = template.titles_en_US_dedes.ve3.pdf.cover
+ve3.html.tab = template.titles_en_US_goa.ve3.html.tab 
+ve3.pdf.header = template.titles_en_US_goa.ve.pdf.header
+ve3.pdf.cover = template.titles_en_US_goa.ve3.pdf.cover
 
-ve4.html.tab = template.titles_en_US_dedes.ve4.html.tab 
-ve4.pdf.header = template.titles_en_US_dedes.ve4.pdf.header
-ve4.pdf.cover = template.titles_en_US_dedes.ve4.pdf.cover
+ve4.html.tab = template.titles_en_US_goa.ve4.html.tab 
+ve4.pdf.header = template.titles_en_US_goa.ve4.pdf.header
+ve4.pdf.cover = template.titles_en_US_goa.ve4.pdf.cover
 
-ve5.html.tab = template.titles_en_US_dedes.ve5.html.tab 
-ve5.pdf.header = template.titles_en_US_dedes.ve5.pdf.header
-ve5.pdf.cover = template.titles_en_US_dedes.ve5.pdf.cover
+ve5.html.tab = template.titles_en_US_goa.ve5.html.tab 
+ve5.pdf.header = template.titles_en_US_goa.ve5.pdf.header
+ve5.pdf.cover = template.titles_en_US_goa.ve5.pdf.cover
 
-vl.html.tab = template.titles_en_US_dedes.vl.html.tab 
-vl.pdf.header = template.titles_en_US_dedes.vl.pdf.header
-vl.pdf.cover = template.titles_en_US_dedes.vl.pdf.cover
-vl.pdf.cover2 = template.titles_en_US_dedes.vl.pdf.cover2
+vl.html.tab = template.titles_en_US_goa.vl.html.tab 
+vl.pdf.header = template.titles_en_US_goa.vl.pdf.header
+vl.pdf.cover = template.titles_en_US_goa.vl.pdf.cover
+vl.pdf.cover2 = template.titles_en_US_goa.vl.pdf.cover2
 
-vl2.html.tab = template.titles_en_US_dedes.vl2.html.tab 
-vl2.pdf.header = template.titles_en_US_dedes.vl2.pdf.header
-vl2.pdf.cover = template.titles_en_US_dedes.vl2.pdf.cover
-vl2.pdf.cover2 = template.titles_en_US_dedes.vl2.pdf.cover2
+vl2.html.tab = template.titles_en_US_goa.vl2.html.tab 
+vl2.pdf.header = template.titles_en_US_goa.vl2.pdf.header
+vl2.pdf.cover = template.titles_en_US_goa.vl2.pdf.cover
+vl2.pdf.cover2 = template.titles_en_US_goa.vl2.pdf.cover2
 
 //other
-d = template.titles_en_US_dedes.d 
-d.delimiter = template.titles_en_US_dedes.d.delimiter
-d.for = template.titles_en_US_dedes.d.for
-d.of = template.titles_en_US_dedes.d.of
-d.on = template.titles_en_US_dedes.d.on
-d.ontheeveof = template.titles_en_US_dedes.d.ontheeveof
-d.onSundayMorning = template.titles_en_US_dedes.d.onSundayMorning
-d.onSundayEvening = template.titles_en_US_dedes.d.onSundayEvening
-d.onMondayMorning = template.titles_en_US_dedes.d.onMondayMorning
-d.onMondayEvening = template.titles_en_US_dedes.d.onMondayEvening
-d.onTuesdayMorning = template.titles_en_US_dedes.d.onTuesdayMorning
-d.onTuesdayEvening = template.titles_en_US_dedes.d.onTuesdayEvening
-d.onWednesdayMorning = template.titles_en_US_dedes.d.onWednesdayMorning
-d.onWednesdayEvening = template.titles_en_US_dedes.d.onWednesdayEvening
-d.onThursdayMorning = template.titles_en_US_dedes.d.onThursdayMorning
-d.onThursdayEvening = template.titles_en_US_dedes.d.onThursdayEvening
-d.onFridayMorning = template.titles_en_US_dedes.d.onFridayMorning
-d.onFridayAfternoon = template.titles_en_US_dedes.d.onFridayAfternoon
-d.onFridayEvening = template.titles_en_US_dedes.d.onFridayEvening
-d.onSaturdayMorning = template.titles_en_US_dedes.d.onSaturdayMorning
-d.onSaturdayEvening = template.titles_en_US_dedes.d.onSaturdayEvening
+d = template.titles_en_US_goa.d 
+d.delimiter = template.titles_en_US_goa.d.delimiter
+d.for = template.titles_en_US_goa.d.for
+d.of = template.titles_en_US_goa.d.of
+d.on = template.titles_en_US_goa.d.on
+d.ontheeveof = template.titles_en_US_goa.d.ontheeveof
+d.onSundayMorning = template.titles_en_US_goa.d.onSundayMorning
+d.onSundayEvening = template.titles_en_US_goa.d.onSundayEvening
+d.onMondayMorning = template.titles_en_US_goa.d.onMondayMorning
+d.onMondayEvening = template.titles_en_US_goa.d.onMondayEvening
+d.onTuesdayMorning = template.titles_en_US_goa.d.onTuesdayMorning
+d.onTuesdayEvening = template.titles_en_US_goa.d.onTuesdayEvening
+d.onWednesdayMorning = template.titles_en_US_goa.d.onWednesdayMorning
+d.onWednesdayEvening = template.titles_en_US_goa.d.onWednesdayEvening
+d.onThursdayMorning = template.titles_en_US_goa.d.onThursdayMorning
+d.onThursdayEvening = template.titles_en_US_goa.d.onThursdayEvening
+d.onFridayMorning = template.titles_en_US_goa.d.onFridayMorning
+d.onFridayAfternoon = template.titles_en_US_goa.d.onFridayAfternoon
+d.onFridayEvening = template.titles_en_US_goa.d.onFridayEvening
+d.onSaturdayMorning = template.titles_en_US_goa.d.onSaturdayMorning
+d.onSaturdayEvening = template.titles_en_US_goa.d.onSaturdayEvening
 
-me.SundayAfterFeast = template.titles_en_US_dedes.me.SundayAfterFeast
+me.SundayAfterFeast = template.titles_en_US_goa.me.SundayAfterFeast
 
-me.m01.d06.onEpiphanyEve = template.titles_en_US_dedes.me.m01.d06.onEpiphanyEve
-me.m12.d25.onChristmasEve = template.titles_en_US_dedes.me.m12.d25.onChristmasEve
+me.m01.d06.onEpiphanyEve = template.titles_en_US_goa.me.m01.d06.onEpiphanyEve
+me.m12.d25.onChristmasEve = template.titles_en_US_goa.me.m12.d25.onChristmasEve
 
-m.month = template.titles_en_US_dedes.m.month 
-m.mode = template.titles_en_US_dedes.m.mode
+m.month = template.titles_en_US_goa.m.month 
+m.mode = template.titles_en_US_goa.m.mode
 
 //Holy Week
-hw.mergedscores.title = template.titles_en_US_dedes.hw.mergedscores.title
-hw.palmsunday = template.titles_en_US_dedes.hw.palmsunday
-hw.bridegroomservice = template.titles_en_US_dedes.hw.bridegroomservice
-hw.passion = template.titles_en_US_dedes.hw.passion
-hw.removal = template.titles_en_US_dedes.hw.removal
-hw.lamentation = template.titles_en_US_dedes.hw.lamentation
-hw.beforeresurrection = template.titles_en_US_dedes.hw.beforeresurrection
-hw.ofholymonday = template.titles_en_US_dedes.hw.ofholymonday
-hw.ofholytuesday = template.titles_en_US_dedes.hw.ofholytuesday
-hw.ofholywednesday = template.titles_en_US_dedes.hw.ofholywednesday
-hw.ofholythursday = template.titles_en_US_dedes.hw.ofholythursday
-hw.ofholyfriday = template.titles_en_US_dedes.hw.ofholyfriday
-hw.ofholysaturday = template.titles_en_US_dedes.hw.ofholysaturday
+hw.mergedscores.title = template.titles_en_US_goa.hw.mergedscores.title
+hw.palmsunday = template.titles_en_US_goa.hw.palmsunday
+hw.bridegroomservice = template.titles_en_US_goa.hw.bridegroomservice
+hw.passion = template.titles_en_US_goa.hw.passion
+hw.removal = template.titles_en_US_goa.hw.removal
+hw.lamentation = template.titles_en_US_goa.hw.lamentation
+hw.beforeresurrection = template.titles_en_US_goa.hw.beforeresurrection
+hw.ofholymonday = template.titles_en_US_goa.hw.ofholymonday
+hw.ofholytuesday = template.titles_en_US_goa.hw.ofholytuesday
+hw.ofholywednesday = template.titles_en_US_goa.hw.ofholywednesday
+hw.ofholythursday = template.titles_en_US_goa.hw.ofholythursday
+hw.ofholyfriday = template.titles_en_US_goa.hw.ofholyfriday
+hw.ofholysaturday = template.titles_en_US_goa.hw.ofholysaturday
 
-pa.pascha = template.titles_en_US_dedes.pa.pascha
-pa.ofpascha = template.titles_en_US_dedes.pa.ofpascha
-pa.resurrection = template.titles_en_US_dedes.pa.resurrection
-pa.easter = template.titles_en_US_dedes.pa.easter
-pa.agape = template.titles_en_US_dedes.pa.agape
-pa.brightweek = template.titles_en_US_dedes.pa.brightweek
-pa.ofbrightweek = template.titles_en_US_dedes.pa.ofbrightweek
+pa.pascha = template.titles_en_US_goa.pa.pascha
+pa.ofpascha = template.titles_en_US_goa.pa.ofpascha
+pa.resurrection = template.titles_en_US_goa.pa.resurrection
+pa.easter = template.titles_en_US_goa.pa.easter
+pa.agape = template.titles_en_US_goa.pa.agape
+pa.brightweek = template.titles_en_US_goa.pa.brightweek
+pa.ofbrightweek = template.titles_en_US_goa.pa.ofbrightweek
 
-sal.theotokos = template.titles_en_US_dedes.sal.theotokos
+sal.theotokos = template.titles_en_US_goa.sal.theotokos
 
-clps.stichologia.top = template.titles_en_US_dedes.clps.stichologia.top
-clps.stichologia.bottom = template.titles_en_US_dedes.clps.stichologia.bottom
-clps.additionallitanies.top = template.titles_en_US_dedes.clps.additionallitanies.top
-clps.additionallitanies.bottom = template.titles_en_US_dedes.clps.additionallitanies.bottom
-clps.additionalpetitions.top = template.titles_en_US_dedes.clps.additionalpetitions.top
-clps.additionalpetitions.bottom = template.titles_en_US_dedes.clps.additionalpetitions.bottom
-clps.alternative.top = template.titles_en_US_dedes.clps.alternative.top
-clps.alternative.bottom = template.titles_en_US_dedes.clps.alternative.bottom
-clps.matinsordinary.top = template.titles_en_US_dedes.clps.matinsordinary.top
-clps.matinsordinary.bottom = template.titles_en_US_dedes.clps.matinsordinary.bottom
-clps.prayers.top = template.titles_en_US_dedes.clps.prayers.top
-clps.prayers.bottom = template.titles_en_US_dedes.clps.prayers.bottom
-clps.precommunionprayers.top = template.titles_en_US_dedes.clps.precommunionprayers.top
-clps.precommunionprayers.bottom = template.titles_en_US_dedes.clps.precommunionprayers.bottom
-clps.lity.top = template.titles_en_US_dedes.clps.lity.top
-clps.lity.bottom = template.titles_en_US_dedes.clps.lity.bottom
-clps.selectedverses.top = template.titles_en_US_dedes.clps.selectedverses.top
-clps.selectedverses.bottom = template.titles_en_US_dedes.clps.selectedverses.bottom
-clps.typikon.top = template.titles_en_US_dedes.clps.typikon.top
-clps.typikon.bottom = template.titles_en_US_dedes.clps.typikon.bottom
+clps.stichologia.top = template.titles_en_US_goa.clps.stichologia.top
+clps.stichologia.bottom = template.titles_en_US_goa.clps.stichologia.bottom
+clps.additionallitanies.top = template.titles_en_US_goa.clps.additionallitanies.top
+clps.additionallitanies.bottom = template.titles_en_US_goa.clps.additionallitanies.bottom
+clps.additionalpetitions.top = template.titles_en_US_goa.clps.additionalpetitions.top
+clps.additionalpetitions.bottom = template.titles_en_US_goa.clps.additionalpetitions.bottom
+clps.alternative.top = template.titles_en_US_goa.clps.alternative.top
+clps.alternative.bottom = template.titles_en_US_goa.clps.alternative.bottom
+clps.matinsordinary.top = template.titles_en_US_goa.clps.matinsordinary.top
+clps.matinsordinary.bottom = template.titles_en_US_goa.clps.matinsordinary.bottom
+clps.prayers.top = template.titles_en_US_goa.clps.prayers.top
+clps.prayers.bottom = template.titles_en_US_goa.clps.prayers.bottom
+clps.precommunionprayers.top = template.titles_en_US_goa.clps.precommunionprayers.top
+clps.precommunionprayers.bottom = template.titles_en_US_goa.clps.precommunionprayers.bottom
+clps.lity.top = template.titles_en_US_goa.clps.lity.top
+clps.lity.bottom = template.titles_en_US_goa.clps.lity.bottom
+clps.selectedverses.top = template.titles_en_US_goa.clps.selectedverses.top
+clps.selectedverses.bottom = template.titles_en_US_goa.clps.selectedverses.bottom
+clps.typikon.top = template.titles_en_US_goa.clps.typikon.top
+clps.typikon.bottom = template.titles_en_US_goa.clps.typikon.bottom
 
 bmc.tag = //begin marked content
 emc.tag = //end marked content
