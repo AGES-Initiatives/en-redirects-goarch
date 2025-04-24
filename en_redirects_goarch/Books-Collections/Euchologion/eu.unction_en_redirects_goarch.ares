@@ -18,6 +18,7 @@ euUNC.C1.verse.text = eu.unction_en_US_dedes.euUNC.C1.verse.text
 
 euUNC.Ode11.mode = eu.unction_en_US_dedes.euUNC.Ode11.mode
 euUNC.Ode11.ode = eu.unction_en_US_dedes.euUNC.Ode11.ode
+euUNC.Ode11.greekmelody = eu.unction_en_US_dedes.euUNC.Ode11.greekmelody
 euUNC.Ode11.melody = eu.unction_en_US_dedes.euUNC.Ode11.melody
 euUNC.Ode11.text = eu.unction_en_US_dedes.euUNC.Ode11.text
 
@@ -38,6 +39,7 @@ euUNC.Ode1T.text = eu.unction_en_US_dedes.euUNC.Ode1T.text
 
 euUNC.Ode31.mode = eu.unction_en_US_dedes.euUNC.Ode31.mode
 euUNC.Ode31.ode = eu.unction_en_US_dedes.euUNC.Ode31.ode
+euUNC.Ode31.greekmelody = eu.unction_en_US_dedes.euUNC.Ode31.greekmelody
 euUNC.Ode31.melody = eu.unction_en_US_dedes.euUNC.Ode31.melody
 euUNC.Ode31.text = eu.unction_en_US_dedes.euUNC.Ode31.text
 
@@ -57,15 +59,18 @@ euUNC.Ode3T.melody = eu.unction_en_US_dedes.euUNC.Ode3T.melody
 euUNC.Ode3T.text = eu.unction_en_US_dedes.euUNC.Ode3T.text
 
 euUNC.Kathisma11.mode = eu.unction_en_US_dedes.euUNC.Kathisma11.mode
+euUNC.Kathisma11.greekmelody = eu.unction_en_US_dedes.euUNC.Kathisma11.greekmelody
 euUNC.Kathisma11.melody = eu.unction_en_US_dedes.euUNC.Kathisma11.melody
 euUNC.Kathisma11.text = eu.unction_en_US_dedes.euUNC.Kathisma11.text
 
 euUNC.Kathisma12.mode = eu.unction_en_US_dedes.euUNC.Kathisma12.mode
+euUNC.Kathisma12.greekmelody = eu.unction_en_US_dedes.euUNC.Kathisma12.greekmelody
 euUNC.Kathisma12.melody = eu.unction_en_US_dedes.euUNC.Kathisma12.melody
 euUNC.Kathisma12.text = eu.unction_en_US_dedes.euUNC.Kathisma12.text
 
 euUNC.Ode41.mode = eu.unction_en_US_dedes.euUNC.Ode41.mode
 euUNC.Ode41.ode = eu.unction_en_US_dedes.euUNC.Ode41.ode
+euUNC.Ode41.greekmelody = eu.unction_en_US_dedes.euUNC.Ode41.greekmelody
 euUNC.Ode41.melody = eu.unction_en_US_dedes.euUNC.Ode41.melody
 euUNC.Ode41.text = eu.unction_en_US_dedes.euUNC.Ode41.text
 
@@ -86,6 +91,7 @@ euUNC.Ode4T.text = eu.unction_en_US_dedes.euUNC.Ode4T.text
 
 euUNC.Ode51.mode = eu.unction_en_US_dedes.euUNC.Ode51.mode
 euUNC.Ode51.ode = eu.unction_en_US_dedes.euUNC.Ode51.ode
+euUNC.Ode51.greekmelody = eu.unction_en_US_dedes.euUNC.Ode51.greekmelody
 euUNC.Ode51.melody = eu.unction_en_US_dedes.euUNC.Ode51.melody
 euUNC.Ode51.text = eu.unction_en_US_dedes.euUNC.Ode51.text
 
@@ -106,6 +112,7 @@ euUNC.Ode5T.text = eu.unction_en_US_dedes.euUNC.Ode5T.text
 
 euUNC.Ode61.mode = eu.unction_en_US_dedes.euUNC.Ode61.mode
 euUNC.Ode61.ode = eu.unction_en_US_dedes.euUNC.Ode61.ode
+euUNC.Ode61.greekmelody = eu.unction_en_US_dedes.euUNC.Ode61.greekmelody
 euUNC.Ode61.melody = eu.unction_en_US_dedes.euUNC.Ode61.melody
 euUNC.Ode61.text = eu.unction_en_US_dedes.euUNC.Ode61.text
 
@@ -125,11 +132,13 @@ euUNC.Ode6T.melody = eu.unction_en_US_dedes.euUNC.Ode6T.melody
 euUNC.Ode6T.text = eu.unction_en_US_dedes.euUNC.Ode6T.text
 
 euUNC.Kontakion.mode = eu.unction_en_US_dedes.euUNC.Kontakion.mode
+euUNC.Kontakion.greekmelody = eu.unction_en_US_dedes.euUNC.Kontakion.greekmelody
 euUNC.Kontakion.melody = eu.unction_en_US_dedes.euUNC.Kontakion.melody
 euUNC.Kontakion.text = eu.unction_en_US_dedes.euUNC.Kontakion.text
 
 euUNC.Ode71.mode = eu.unction_en_US_dedes.euUNC.Ode71.mode
 euUNC.Ode71.ode = eu.unction_en_US_dedes.euUNC.Ode71.ode
+euUNC.Ode71.greekmelody = eu.unction_en_US_dedes.euUNC.Ode71.greekmelody
 euUNC.Ode71.melody = eu.unction_en_US_dedes.euUNC.Ode71.melody
 euUNC.Ode71.text = eu.unction_en_US_dedes.euUNC.Ode71.text
 
@@ -150,6 +159,7 @@ euUNC.Ode7T.text = eu.unction_en_US_dedes.euUNC.Ode7T.text
 
 euUNC.Ode81.mode = eu.unction_en_US_dedes.euUNC.Ode81.mode
 euUNC.Ode81.ode = eu.unction_en_US_dedes.euUNC.Ode81.ode
+euUNC.Ode81.greekmelody = eu.unction_en_US_dedes.euUNC.Ode81.greekmelody
 euUNC.Ode81.melody = eu.unction_en_US_dedes.euUNC.Ode81.melody
 euUNC.Ode81.text = eu.unction_en_US_dedes.euUNC.Ode81.text
 
@@ -170,6 +180,7 @@ euUNC.Ode8T.text = eu.unction_en_US_dedes.euUNC.Ode8T.text
 
 euUNC.Ode91.mode = eu.unction_en_US_dedes.euUNC.Ode91.mode
 euUNC.Ode91.ode = eu.unction_en_US_dedes.euUNC.Ode91.ode
+euUNC.Ode91.greekmelody = eu.unction_en_US_dedes.euUNC.Ode91.greekmelody
 euUNC.Ode91.melody = eu.unction_en_US_dedes.euUNC.Ode91.melody
 euUNC.Ode91.text = eu.unction_en_US_dedes.euUNC.Ode91.text
 
@@ -191,10 +202,12 @@ euUNC.Ode9T.text = eu.unction_en_US_dedes.euUNC.Ode9T.text
 euUNC.Ode9End.text = prayers_en_US_dedes.pr.ItIsTrulyRight_complete.text
 
 euUNC.Exaposteilarion.mode = eu.unction_en_US_dedes.euUNC.Exaposteilarion.mode
+euUNC.Exaposteilarion.greekmelody = eu.unction_en_US_dedes.euUNC.Exaposteilarion.greekmelody
 euUNC.Exaposteilarion.melody = eu.unction_en_US_dedes.euUNC.Exaposteilarion.melody
 euUNC.Exaposteilarion.text = eu.unction_en_US_dedes.euUNC.Exaposteilarion.text
 
 euUNC.Lauds1.mode = eu.unction_en_US_dedes.euUNC.Lauds1.mode
+euUNC.Lauds1.greekmelody = eu.unction_en_US_dedes.euUNC.Lauds1.greekmelody
 euUNC.Lauds1.melody = eu.unction_en_US_dedes.euUNC.Lauds1.melody
 euUNC.Lauds1.text = eu.unction_en_US_dedes.euUNC.Lauds1.text
 
@@ -211,6 +224,7 @@ euUNC.LaudsTheotokion.melody = eu.unction_en_US_dedes.euUNC.LaudsTheotokion.melo
 euUNC.LaudsTheotokion.text = eu.unction_en_US_dedes.euUNC.LaudsTheotokion.text
 
 euUNC.Troparion.mode = eu.unction_en_US_dedes.euUNC.Troparion.mode
+euUNC.Troparion.greekmelody = eu.unction_en_US_dedes.euUNC.Troparion.greekmelody
 euUNC.Troparion.melody = eu.unction_en_US_dedes.euUNC.Troparion.melody
 euUNC.Troparion.text = eu.unction_en_US_dedes.euUNC.Troparion.text
 
