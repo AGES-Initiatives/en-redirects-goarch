@@ -64,7 +64,7 @@ meVE.Aposticha1.mode = me.m08.d19_en_US_dedes.meVE.Aposticha1.mode
 meVE.Aposticha1.greekmelody = me.m08.d19_en_US_dedes.meVE.Aposticha1.greekmelody
 meVE.Aposticha1.melody = me.m08.d19_en_US_dedes.meVE.Aposticha1.melody
 meVE.Aposticha1.incipit = me.m08.d19_en_US_dedes.meVE.Aposticha1.incipit
-meVE.Aposticha1.text = me.m08.d19_en_US_dedes.meVE.Aposticha1.text
+meVE.Aposticha1.text = me.m08.d19_en_US_dedes.meVE.Aposticha1.text 
 
 meVE.Aposticha2.mode = me.m08.d19_en_US_dedes.meVE.Aposticha2.mode
 meVE.Aposticha2.melody = me.m08.d19_en_US_dedes.meVE.Aposticha2.melody
