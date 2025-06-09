@@ -100,11 +100,11 @@ meVE.Apolytikion1ger.melody = me.m09.d20_en_US_goadedes.meVE.Apolytikion1ger.mel
 meVE.Apolytikion1ger.incipit = me.m09.d20_en_US_goadedes.meVE.Apolytikion1ger.incipit
 meVE.Apolytikion1ger.text = me.m09.d20_en_US_goadedes.meVE.Apolytikion1ger.text
 
-meMA.Kathisma11.mode = me.m09.d20_en_US_dedes.meMA.Kathisma11.mode
-meMA.Kathisma11.greekmelody = me.m09.d20_en_US_dedes.meMA.Kathisma11.greekmelody
-meMA.Kathisma11.melody = me.m09.d20_en_US_oca.meMA.Kathisma11.melody
-meMA.Kathisma11.incipit = me.m09.d20_en_US_oca.meMA.Kathisma11.incipit
-meMA.Kathisma11.text = me.m09.d20_en_US_oca.meMA.Kathisma11.text
+meMA.Kathisma11.mode = me.m09.d20_en_US_goadedes.meMA.Kathisma11.mode
+meMA.Kathisma11.greekmelody = me.m09.d20_en_US_goadedes.meMA.Kathisma11.greekmelody
+meMA.Kathisma11.melody = me.m09.d20_en_US_goadedes.meMA.Kathisma11.melody
+meMA.Kathisma11.incipit = me.m09.d20_en_US_goadedes.meMA.Kathisma11.incipit
+meMA.Kathisma11.text = me.m09.d20_en_US_goadedes.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = me.m09.d20_en_US_dedes.meMA.Kathisma21.mode
 meMA.Kathisma21.greekmelody = me.m09.d20_en_US_dedes.meMA.Kathisma21.greekmelody
@@ -392,10 +392,10 @@ meMA.Aposticha1.melody = me.m09.d20_en_US_goadedes.meMA.Aposticha1.melody
 meMA.Aposticha1.incipit = me.m09.d20_en_US_goadedes.meMA.Aposticha1.incipit
 meMA.Aposticha1.text = me.m09.d20_en_US_goadedes.meMA.Aposticha1.text
 
-meMA.Aposticha2.mode = me.m09.d20_en_US_dedes.meMA.Aposticha2.mode
-meMA.Aposticha2.melody = me.m09.d20_en_US_dedes.meMA.Aposticha2.melody
-meMA.Aposticha2.incipit = me.m09.d20_en_US_dedes.meMA.Aposticha2.incipit
-meMA.Aposticha2.text = me.m09.d20_en_US_dedes.meMA.Aposticha2.text
+meMA.Aposticha2.mode = me.m09.d20_en_US_goadedes.meMA.Aposticha2.mode
+meMA.Aposticha2.melody = me.m09.d20_en_US_goadedes.meMA.Aposticha2.melody
+meMA.Aposticha2.incipit = me.m09.d20_en_US_goadedes.meMA.Aposticha2.incipit
+meMA.Aposticha2.text = me.m09.d20_en_US_goadedes.meMA.Aposticha2.text
 
 meMA.Aposticha3.mode = me.m09.d20_en_US_dedes.meMA.Aposticha3.mode
 meMA.Aposticha3.melody = me.m09.d20_en_US_dedes.meMA.Aposticha3.melody
