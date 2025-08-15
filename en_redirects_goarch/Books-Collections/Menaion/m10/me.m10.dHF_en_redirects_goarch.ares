@@ -78,10 +78,10 @@ meVE.AposTheotokion.melody = me.m10.dHF_en_US_goadedes.meVE.AposTheotokion.melod
 meVE.AposTheotokion.incipit = me.m10.dHF_en_US_goadedes.meVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = me.m10.dHF_en_US_goadedes.meVE.AposTheotokion.text
 
-meVE.Apolytikion1.mode = me.m10.dHF_en_US_dedes.meVE.Apolytikion1.mode
-meVE.Apolytikion1.melody = me.m10.dHF_en_US_dedes.meVE.Apolytikion1.melody
-meVE.Apolytikion1.incipit = me.m10.dHF_en_US_dedes.meVE.Apolytikion1.incipit
-meVE.Apolytikion1.text = me.m10.dHF_en_US_dedes.meVE.Apolytikion1.text
+meVE.Apolytikion1.mode = me.m10.dHF_en_US_goadedes.meVE.Apolytikion1.mode
+meVE.Apolytikion1.melody = me.m10.dHF_en_US_goadedes.meVE.Apolytikion1.melody
+meVE.Apolytikion1.incipit = me.m10.dHF_en_US_goadedes.meVE.Apolytikion1.incipit
+meVE.Apolytikion1.text = me.m10.dHF_en_US_goadedes.meVE.Apolytikion1.text
 
 meMA.C1.acrostic.title = me.m10.dHF_en_US_goadedes.meMA.C1.acrostic.title
 meMA.C1.acrostic.notice1 = me.m10.dHF_en_US_goadedes.meMA.C1.acrostic.notice1
