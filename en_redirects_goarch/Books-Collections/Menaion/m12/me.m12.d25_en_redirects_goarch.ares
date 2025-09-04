@@ -383,8 +383,8 @@ meMA.Hypakoe.melody = me.m12.d25_en_US_dedes.meMA.Hypakoe.melody
 meMA.Hypakoe.incipit = me.m12.d25_en_US_dedes.meMA.Hypakoe.incipit
 meMA.Hypakoe.text = me.m12.d25_en_US_dedes.meMA.Hypakoe.text
 
-meMA.Ode3Kathisma1.mode = me.m12.d25_en_US_dedes.meMA.Ode3Kathisma1.mode
-meMA.Ode3Kathisma1.greekmelody = me.m12.d25_en_US_dedes.meMA.Ode3Kathisma1.greekmelody
+meMA.Ode3Kathisma1.mode = me.m12.d25_en_US_goadedes.meMA.Ode3Kathisma1.mode
+meMA.Ode3Kathisma1.greekmelody = me.m12.d25_en_US_goadedes.meMA.Ode3Kathisma1.greekmelody
 meMA.Ode3Kathisma1.melody = me.m12.d25_en_US_goadedes.meMA.Ode3Kathisma1.melody
 meMA.Ode3Kathisma1.incipit = me.m12.d25_en_US_goadedes.meMA.Ode3Kathisma1.incipit
 meMA.Ode3Kathisma1.text = me.m12.d25_en_US_goadedes.meMA.Ode3Kathisma1.text
