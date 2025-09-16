@@ -435,10 +435,10 @@ meMA.LaudsGlory.melody = me.m09.d16_en_US_dedes.meMA.LaudsGlory.melody
 meMA.LaudsGlory.incipit = me.m09.d16_en_US_dedes.meMA.LaudsGlory.incipit
 meMA.LaudsGlory.text = me.m09.d16_en_US_dedes.meMA.LaudsGlory.text
 
-meMA.LaudsBoth.mode = me.m09.d16_en_US_dedes.meMA.LaudsBoth.mode
-meMA.LaudsBoth.melody = me.m09.d16_en_US_dedes.meMA.LaudsBoth.melody
-meMA.LaudsBoth.incipit = me.m09.d16_en_US_dedes.meMA.LaudsBoth.incipit
-meMA.LaudsBoth.text = me.m09.d16_en_US_dedes.meMA.LaudsBoth.text
+meMA.LaudsBoth.mode = me.m09.d16_en_US_goadedes.meMA.LaudsBoth.mode
+meMA.LaudsBoth.melody = me.m09.d16_en_US_goadedes.meMA.LaudsBoth.melody
+meMA.LaudsBoth.incipit = me.m09.d16_en_US_goadedes.meMA.LaudsBoth.incipit
+meMA.LaudsBoth.text = me.m09.d16_en_US_goadedes.meMA.LaudsBoth.text
 
 meMA.Aposticha1.mode = me.m09.d16_en_US_goadedes.meMA.Aposticha1.mode
 meMA.Aposticha1.greekmelody = me.m09.d16_en_US_goadedes.meMA.Aposticha1.greekmelody
