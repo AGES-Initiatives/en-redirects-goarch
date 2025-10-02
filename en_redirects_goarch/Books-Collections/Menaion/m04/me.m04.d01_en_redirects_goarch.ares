@@ -61,10 +61,10 @@ meVE.SticTheotokion2.melody = me.m04.d01_en_US_dedes.meVE.SticTheotokion2.melody
 meVE.SticTheotokion2.incipit = me.m04.d01_en_US_dedes.meVE.SticTheotokion2.incipit
 meVE.SticTheotokion2.text = me.m04.d01_en_US_dedes.meVE.SticTheotokion2.text
 
-meVE.SticStavrotheotokion2.mode = me.m04.d01_en_US_dedes.meVE.SticStavrotheotokion2.mode
-meVE.SticStavrotheotokion2.melody = me.m04.d01_en_US_dedes.meVE.SticStavrotheotokion2.melody
-meVE.SticStavrotheotokion2.incipit = me.m04.d01_en_US_dedes.meVE.SticStavrotheotokion2.incipit
-meVE.SticStavrotheotokion2.text = me.m04.d01_en_US_dedes.meVE.SticStavrotheotokion2.text
+meVE.SticStavrotheotokion2.mode = me.m04.d01_en_US_goadedes.meVE.SticStavrotheotokion2.mode
+meVE.SticStavrotheotokion2.melody = me.m04.d01_en_US_goadedes.meVE.SticStavrotheotokion2.melody
+meVE.SticStavrotheotokion2.incipit = me.m04.d01_en_US_goadedes.meVE.SticStavrotheotokion2.incipit
+meVE.SticStavrotheotokion2.text = me.m04.d01_en_US_goadedes.meVE.SticStavrotheotokion2.text
 
 meVE.Apolytikion1.mode = me.m04.d01_en_US_dedes.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m04.d01_en_US_dedes.meVE.Apolytikion1.melody
