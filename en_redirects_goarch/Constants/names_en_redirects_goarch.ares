@@ -12,6 +12,12 @@ name.sample.relic1.name = names_en_US_goa.name.sample.relic1.name
 name.sample.relic2.name = names_en_US_goa.name.sample.relic2.name
 name.sample.relic3.name = names_en_US_goa.name.sample.relic3.name
 
+name.NA.localsaint1.supplication = names_en_US_goa.name.NA.localsaint1.supplication
+name.NA.localsaint1.dismissal = names_en_US_goa.name.NA.localsaint1.dismissal
+name.NA.consecration.greatlitany.finalpetition.name = names_en_US_goa.name.NA.consecration.greatlitany.finalpetition.name
+
+name.anna.localchurch.title = names_en_US_goa.name.anna.localchurch.title
+
 name.argyriosepanomites.relic1or2.name = names_en_US_goa.name.argyriosepanomites.relic1or2.name
 name.argyriosepanomites.relic3.name = names_en_US_goa.name.argyriosepanomites.relic3.name
 
@@ -81,6 +87,8 @@ name.iakovos.conVE.SticBoth.churchname.text = names_en_US_goa.name.iakovos.conVE
 name.iakovos.consecration.name = names_en_US_goa.name.iakovos.consecration.name
 name.iakovos.consecration.prayer1 = names_en_US_goa.name.iakovos.consecration.prayer1
 name.iakovos.consecration.greatlitany.finalpetition.name = names_en_US_goa.name.iakovos.consecration.greatlitany.finalpetition.name
+
+name.johnforerunner.localchurch.title = names_en_US_goa.name.johnforerunner.localchurch.title
 
 name.marina.relic1or2.name = names_en_US_goa.name.marina.relic1or2.name
 name.marina.relic3.name = names_en_US_goa.name.marina.relic3.name
