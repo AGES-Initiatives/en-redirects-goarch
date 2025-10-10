@@ -454,14 +454,14 @@ peMA.LaudsGlory.melody = pe.d078_en_US_dedes.peMA.LaudsGlory.melody
 peMA.LaudsGlory.incipit = pe.d078_en_US_dedes.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d078_en_US_dedes.peMA.LaudsGlory.text
 
-peLI.Kontakion1.mode = pe.d078_en_US_dedes.peLI.Kontakion1.mode
-peLI.Kontakion1.melody = pe.d078_en_US_dedes.peLI.Kontakion1.melody
-peLI.Kontakion1.incipit = pe.d078_en_US_dedes.peLI.Kontakion1.incipit
-peLI.Kontakion1.text = pe.d078_en_US_dedes.peLI.Kontakion1.text
+peLI.Kontakion1.mode = pe.d078_en_US_goadedes.peLI.Kontakion1.mode
+peLI.Kontakion1.melody = pe.d078_en_US_goadedes.peLI.Kontakion1.melody
+peLI.Kontakion1.incipit = pe.d078_en_US_goadedes.peLI.Kontakion1.incipit
+peLI.Kontakion1.text = pe.d078_en_US_goadedes.peLI.Kontakion1.text
 
-peLI.TheotokosHymn.mode = pe.d078_en_US_dedes.peLI.TheotokosHymn.mode
-peLI.TheotokosHymn.incipit = pe.d078_en_US_dedes.peLI.TheotokosHymn.incipit
-peLI.TheotokosHymn.text = pe.d078_en_US_dedes.peLI.TheotokosHymn.text
+peLI.TheotokosHymn.mode = pe.d078_en_US_goadedes.peLI.TheotokosHymn.mode
+peLI.TheotokosHymn.incipit = pe.d078_en_US_goadedes.peLI.TheotokosHymn.incipit
+peLI.TheotokosHymn.text = pe.d078_en_US_goadedes.peLI.TheotokosHymn.text
 
 peLI.MM.CommunionHymn.text = pe.d078_en_US_dedes.peLI.MM.CommunionHymn.text
 
