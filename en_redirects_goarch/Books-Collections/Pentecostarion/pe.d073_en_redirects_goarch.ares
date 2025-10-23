@@ -12,6 +12,7 @@ peHO.description2 = pe.d073_en_US_dedes.peHO.description2
 peHO.note1 = pe.d073_en_US_dedes.peHO.note1
 peHO.note2 = pe.d073_en_US_dedes.peHO.note2
 peDA.dismissal = pe.d073_en_US_dedes.peDA.dismissal
+peDA.dismissal.incipit = pe.d073_en_US_dedes.peDA.dismissal.incipit
 
 peVE.MM.Stichera1234as3456.text = pe.d073_en_US_goadedes.peVE.MM.Stichera1234as3456.text
 
@@ -97,6 +98,7 @@ alt1.peHO.description2 = pe.d073_en_US_dedes.alt1.peHO.description2
 alt1.peHO.note1 = pe.d073_en_US_dedes.alt1.peHO.note1
 alt1.peHO.note2 = pe.d073_en_US_dedes.alt1.peHO.note2
 alt1.peDA.dismissal = pe.d073_en_US_dedes.alt1.peDA.dismissal
+alt1.peDA.dismissal.incipit = pe.d073_en_US_dedes.alt1.peDA.dismissal.incipit
 
 alt1.peVE.Stichera01.mode = pe.d073_en_US_goadedes.alt1.peVE.Stichera01.mode
 alt1.peVE.Stichera01.melody = pe.d073_en_US_goadedes.alt1.peVE.Stichera01.melody

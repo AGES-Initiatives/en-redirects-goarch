@@ -1,11 +1,13 @@
 A_Resource_Whose_Name = dismissals_en_redirects_goarch
 
 dis00 = dismissals_en_US_goadedes.dis00
+dis00.andresurrection.incipit = dismissals_en_US_goadedes.dis00.andresurrection.incipit
 dis00.andresurrection = dismissals_en_US_goadedes.dis00.andresurrection
 dis00.annunciation.incipit = dismissals_en_US_goadedes.dis00.annunciation.incipit
 dis00.annunciation = dismissals_en_US_goadedes.dis00.annunciation
 dis00.ascension.incipit = dismissals_en_US_goadedes.dis00.ascension.incipit
 dis00.ascension = dismissals_en_US_goadedes.dis00.ascension
+dis00.andascension.incipit = dismissals_en_US_goadedes.dis00.andascension.incipit
 dis00.andascension = dismissals_en_US_goadedes.dis00.andascension
 dis00.bridegroom.incipit = dismissals_en_US_goadedes.dis00.bridegroom.incipit
 dis00.bridegroom = dismissals_en_US_goadedes.dis00.bridegroom
@@ -38,6 +40,7 @@ dis00.resurrection = dismissals_en_US_goadedes.dis00.resurrection
 dis00.transfiguration.incipit = dismissals_en_US_goadedes.dis00.transfiguration.incipit
 dis00.transfiguration = dismissals_en_US_goadedes.dis00.transfiguration
 dis01 = dismissals_en_US_goadedes.dis01
+dis01.incipit = dismissals_en_US_goadedes.dis01.incipit
 dis02 = dismissals_en_US_goadedes.dis02
 dis03 = dismissals_en_US_goadedes.dis03
 dis04 = dismissals_en_US_goadedes.dis04

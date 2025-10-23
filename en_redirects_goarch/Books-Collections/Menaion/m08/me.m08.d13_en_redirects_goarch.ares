@@ -23,6 +23,7 @@ meHO.commemorations = me.m08.d13_en_US_dedes.meHO.commemorations
 meHO.note1 = me.m08.d13_en_US_dedes.meHO.note1
 meHO.note2 = me.m08.d13_en_US_dedes.meHO.note2
 meDA.dismissal = me.m08.d13_en_US_dedes.meDA.dismissal
+meDA.dismissal.incipit = me.m08.d13_en_US_dedes.meDA.dismissal.incipit
 
 meLI.TheotokosHymn.mode = me.m08.d13_en_US_dedes.meLI.TheotokosHymn.mode
 meLI.TheotokosHymn.incipit = me.m08.d13_en_US_dedes.meLI.TheotokosHymn.incipit

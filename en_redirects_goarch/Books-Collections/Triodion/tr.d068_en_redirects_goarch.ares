@@ -16,6 +16,7 @@ trCO.header = tr.d068_en_US_dedes.trCO.header
 trVL.header = tr.d068_en_US_dedes.trVL.header //for pdf headers of presanctified and vesperal liturgies
 trEM.header = tr.d068_en_US_dedes.trEM.header //for pdf evening Matins
 trDA.dismissal = tr.d068_en_US_dedes.trDA.dismissal
+trDA.dismissal.incipit = tr.d068_en_US_dedes.trDA.dismissal.incipit
 
 trVE.Stichera01.mode = tr.d068_en_US_dedes.trVE.Stichera01.mode
 trVE.Stichera01.melody = tr.d068_en_US_dedes.trVE.Stichera01.melody

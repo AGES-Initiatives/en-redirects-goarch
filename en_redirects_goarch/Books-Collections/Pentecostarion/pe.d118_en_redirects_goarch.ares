@@ -12,4 +12,5 @@ peHO.description2 = pe.d118_en_US_dedes.peHO.description2
 peHO.note1 = pe.d118_en_US_dedes.peHO.note1
 peHO.note2 = pe.d118_en_US_dedes.peHO.note2
 peDA.dismissal = pe.d118_en_US_dedes.peDA.dismissal
+peDA.dismissal.incipit = pe.d118_en_US_dedes.peDA.dismissal.incipit
 

@@ -12,6 +12,7 @@ peHO.description2 = pe.d078_en_US_dedes.peHO.description2
 peHO.note1 = pe.d078_en_US_dedes.peHO.note1
 peHO.note2 = pe.d078_en_US_dedes.peHO.note2
 peDA.dismissal = pe.d078_en_US_dedes.peDA.dismissal
+peDA.dismissal.incipit = pe.d078_en_US_dedes.peDA.dismissal.incipit
 
 peSV.Stichera1.mode = pe.d078_en_US_dedes.peSV.Stichera1.mode
 peSV.Stichera1.melody = pe.d078_en_US_dedes.peSV.Stichera1.melody

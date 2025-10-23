@@ -12,6 +12,7 @@ peHO.description2 = pe.d091_en_US_dedes.peHO.description2
 peHO.note1 = pe.d091_en_US_dedes.peHO.note1
 peHO.note2 = pe.d091_en_US_dedes.peHO.note2
 peDA.dismissal = pe.d091_en_US_dedes.peDA.dismissal
+peDA.dismissal.incipit = pe.d091_en_US_dedes.peDA.dismissal.incipit
 
 peVE.MM.Stichera12as34.text = pe.d091_en_US_dedes.peVE.MM.Stichera12as34.text
 

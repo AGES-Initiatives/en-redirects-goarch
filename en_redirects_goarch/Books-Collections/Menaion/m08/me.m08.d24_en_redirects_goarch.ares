@@ -813,6 +813,7 @@ alt2.meHO.commemorations = me.m08.d24_en_US_goadedes.alt2.meHO.commemorations
 alt2.meHO.note1 = me.m08.d24_en_US_goadedes.alt2.meHO.note1
 alt2.meHO.note2 = me.m08.d24_en_US_goadedes.alt2.meHO.note2
 alt2.meDA.dismissal = me.m08.d24_en_US_goadedes.alt2.meDA.dismissal
+alt2.meDA.dismissal.incipit = me.m08.d24_en_US_goadedes.alt2.meDA.dismissal.incipit
 
 alt2.meVE.Stichera01.mode = me.m08.d24_en_US_goadedes.alt2.meVE.Stichera01.mode
 alt2.meVE.Stichera01.greekmelody = me.m08.d24_en_US_goadedes.alt2.meVE.Stichera01.greekmelody

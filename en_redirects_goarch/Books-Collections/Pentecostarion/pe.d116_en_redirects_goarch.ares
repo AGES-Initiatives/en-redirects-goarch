@@ -12,6 +12,7 @@ peHO.description2 = pe.d116_en_US_dedes.peHO.description2
 peHO.note1 = pe.d116_en_US_dedes.peHO.note1
 peHO.note2 = pe.d116_en_US_dedes.peHO.note2
 peDA.dismissal = pe.d116_en_US_dedes.peDA.dismissal
+peDA.dismissal.incipit = pe.d116_en_US_dedes.peDA.dismissal.incipit
 
 peVE.Stichera01.mode = pe.d116_en_US_dedes.peVE.Stichera01.mode
 peVE.Stichera01.greekmelody = pe.d116_en_US_dedes.peVE.Stichera01.greekmelody
