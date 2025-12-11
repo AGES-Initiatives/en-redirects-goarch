@@ -109,7 +109,8 @@ ocVE.AposTheotokion.incipit = oc.m6.d1_en_US_goadedes.ocVE.AposTheotokion.incipi
 ocVE.AposTheotokion.text = oc.m6.d1_en_US_goadedes.ocVE.AposTheotokion.text
 
 ocVE.Apolytikion.mode = oc.m6.d1_en_US_goadedes.ocVE.Apolytikion.mode
-ocVE.Apolytikion.melody =
+ocVE.Apolytikion.melody = oc.m6.d1_en_US_goadedes.ocVE.Apolytikion.melody
+ocVE.Apolytikion.greekmelody = oc.m6.d1_en_US_goadedes.ocVE.Apolytikion.greekmelody
 ocVE.Apolytikion.incipit = oc.m6.d1_en_US_goadedes.ocVE.Apolytikion.incipit
 ocVE.Apolytikion.text = oc.m6.d1_en_US_goadedes.ocVE.Apolytikion.text
 
