@@ -1,20 +1,20 @@
 A_Resource_Whose_Name = he.a.m4_en_redirects_goarch
 
-heAU.title = he.a.m4_en_US_dedes.heAU.title
+heAU.title = he.a.m4_en_US_goadedes.heAU.title
 
-heAU.DiaXylouOAdam.greekname = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.greekname
-heAU.DiaXylouOAdam.mode = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.mode
-heAU.DiaXylouOAdam.notmetered = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.notmetered
-heAU.DiaXylouOAdam.name = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.name
-heAU.DiaXylouOAdam.incipit = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.incipit
-heAU.DiaXylouOAdam.text = he.a.m4_en_US_dedes.heAU.DiaXylouOAdam.text
+heAU.DiaXylouOAdam.greekname = he.a.m4_en_US_goadedes.heAU.DiaXylouOAdam.greekname
+heAU.DiaXylouOAdam.mode = he.a.m4_en_US_goadedes.heAU.DiaXylouOAdam.mode
+heAU.DiaXylouOAdam.notmetered = he.a.m4_en_US_goadedes.heAU.DiaXylouOAdam.notmetered
+heAU.DiaXylouOAdam.name = he.a.m4_en_US_goadedes.heAU.DiaXylouOAdam.name
+heAU.DiaXylouOAdam.incipit = he.a.m4_en_US_goadedes.heAU.DiaXylouOAdam.incipit
+heAU.DiaXylouOAdam.text = he.a.m4_en_US_goadedes.heAU.DiaXylouOAdam.text
 
-heAU.EdokasSimeiosin.greekname = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.greekname
-heAU.EdokasSimeiosin.mode = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.mode
-heAU.EdokasSimeiosin.notmetered = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.notmetered
-heAU.EdokasSimeiosin.name = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.name
-heAU.EdokasSimeiosin.incipit = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.incipit
-heAU.EdokasSimeiosin.text = he.a.m4_en_US_dedes.heAU.EdokasSimeiosin.text
+heAU.EdokasSimeiosin.greekname = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.greekname
+heAU.EdokasSimeiosin.mode = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.mode
+heAU.EdokasSimeiosin.notmetered = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.notmetered
+heAU.EdokasSimeiosin.name = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.name
+heAU.EdokasSimeiosin.incipit = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.incipit
+heAU.EdokasSimeiosin.text = he.a.m4_en_US_goadedes.heAU.EdokasSimeiosin.text
 
 heAU.EpefanisSimeron.greekname = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.greekname
 heAU.EpefanisSimeron.mode = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.mode
@@ -23,12 +23,12 @@ heAU.EpefanisSimeron.name = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.name
 heAU.EpefanisSimeron.incipit = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.incipit
 heAU.EpefanisSimeron.text = he.a.m4_en_US_goadedes.heAU.EpefanisSimeron.text
 
-heAU.IthelonDakrysinExaleipsai.greekname = he.a.m4_en_US_dedes.heAU.IthelonDakrysinExaleipsai.greekname
-heAU.IthelonDakrysinExaleipsai.mode = he.a.m4_en_US_dedes.heAU.IthelonDakrysinExaleipsai.mode
-heAU.IthelonDakrysinExaleipsai.notmetered = he.a.m4_en_US_dedes.heAU.IthelonDakrysinExaleipsai.notmetered
-heAU.IthelonDakrysinExaleipsai.name = he.a.m4_en_US_dedes.heAU.IthelonDakrysinExaleipsai.name
-heAU.IthelonDakrysinExaleipsai.incipit = he.a.m4_en_US_dedes.heAU.IthelonDakrysinExaleipsai.incipit
-heAU.IthelonDakrysinExaleipsai.text = he.a.m4_en_US_dedes.heAU.IthelonDakrysinExaleipsai.text
+heAU.IthelonDakrysinExaleipsai.greekname = he.a.m4_en_US_goadedes.heAU.IthelonDakrysinExaleipsai.greekname
+heAU.IthelonDakrysinExaleipsai.mode = he.a.m4_en_US_goadedes.heAU.IthelonDakrysinExaleipsai.mode
+heAU.IthelonDakrysinExaleipsai.notmetered = he.a.m4_en_US_goadedes.heAU.IthelonDakrysinExaleipsai.notmetered
+heAU.IthelonDakrysinExaleipsai.name = he.a.m4_en_US_goadedes.heAU.IthelonDakrysinExaleipsai.name
+heAU.IthelonDakrysinExaleipsai.incipit = he.a.m4_en_US_goadedes.heAU.IthelonDakrysinExaleipsai.incipit
+heAU.IthelonDakrysinExaleipsai.text = he.a.m4_en_US_goadedes.heAU.IthelonDakrysinExaleipsai.text
 
 heAU.KateplagiIosif.greekname = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.greekname
 heAU.KateplagiIosif.mode = he.a.m4_en_US_goadedes.heAU.KateplagiIosif.mode
@@ -44,30 +44,30 @@ heAU.KyrieAnelthonEnToStavro.name = he.a.m4_en_US_goadedes.heAU.KyrieAnelthonEnT
 heAU.KyrieAnelthonEnToStavro.incipit = he.a.m4_en_US_goadedes.heAU.KyrieAnelthonEnToStavro.incipit
 heAU.KyrieAnelthonEnToStavro.text = he.a.m4_en_US_goadedes.heAU.KyrieAnelthonEnToStavro.text
 
-heAU.OExYpsistouKlitheis.greekname = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.greekname
-heAU.OExYpsistouKlitheis.mode = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.mode
-heAU.OExYpsistouKlitheis.notmetered = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.notmetered
-heAU.OExYpsistouKlitheis.name = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.name
-heAU.OExYpsistouKlitheis.incipit = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.incipit
-heAU.OExYpsistouKlitheis.text = he.a.m4_en_US_dedes.heAU.OExYpsistouKlitheis.text
+heAU.OExYpsistouKlitheis.greekname = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.greekname
+heAU.OExYpsistouKlitheis.mode = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.mode
+heAU.OExYpsistouKlitheis.notmetered = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.notmetered
+heAU.OExYpsistouKlitheis.name = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.name
+heAU.OExYpsistouKlitheis.incipit = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.incipit
+heAU.OExYpsistouKlitheis.text = he.a.m4_en_US_goadedes.heAU.OExYpsistouKlitheis.text
 
-heAU.OYpsotheisEnToStavro.greekname = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.greekname
-heAU.OYpsotheisEnToStavro.mode = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.mode
-heAU.OYpsotheisEnToStavro.notmetered = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.notmetered
-heAU.OYpsotheisEnToStavro.name = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.name
-heAU.OYpsotheisEnToStavro.incipit = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.incipit
-heAU.OYpsotheisEnToStavro.text = he.a.m4_en_US_dedes.heAU.OYpsotheisEnToStavro.text
+heAU.OYpsotheisEnToStavro.greekname = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.greekname
+heAU.OYpsotheisEnToStavro.mode = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.mode
+heAU.OYpsotheisEnToStavro.notmetered = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.notmetered
+heAU.OYpsotheisEnToStavro.name = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.name
+heAU.OYpsotheisEnToStavro.incipit = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.incipit
+heAU.OYpsotheisEnToStavro.text = he.a.m4_en_US_goadedes.heAU.OYpsotheisEnToStavro.text
 
-heAU.OsGennaionEnMartysi.greekname = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.greekname
-heAU.OsGennaionEnMartysi.mode = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.mode
-heAU.OsGennaionEnMartysi.notmetered = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.notmetered
-heAU.OsGennaionEnMartysi.name = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.name
-heAU.OsGennaionEnMartysi.incipit = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.incipit
-heAU.OsGennaionEnMartysi.text = he.a.m4_en_US_dedes.heAU.OsGennaionEnMartysi.text
+heAU.OsGennaionEnMartysi.greekname = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.greekname
+heAU.OsGennaionEnMartysi.mode = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.mode
+heAU.OsGennaionEnMartysi.notmetered = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.notmetered
+heAU.OsGennaionEnMartysi.name = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.name
+heAU.OsGennaionEnMartysi.incipit = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.incipit
+heAU.OsGennaionEnMartysi.text = he.a.m4_en_US_goadedes.heAU.OsGennaionEnMartysi.text
 
-heAU.TachyProkatalave.greekname = he.a.m4_en_US_dedes.heAU.TachyProkatalave.greekname
-heAU.TachyProkatalave.mode = he.a.m4_en_US_dedes.heAU.TachyProkatalave.mode
-heAU.TachyProkatalave.notmetered = he.a.m4_en_US_dedes.heAU.TachyProkatalave.notmetered
-heAU.TachyProkatalave.name = he.a.m4_en_US_dedes.heAU.TachyProkatalave.name
-heAU.TachyProkatalave.incipit = he.a.m4_en_US_dedes.heAU.TachyProkatalave.incipit
-heAU.TachyProkatalave.text = he.a.m4_en_US_dedes.heAU.TachyProkatalave.text
+heAU.TachyProkatalave.greekname = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.greekname
+heAU.TachyProkatalave.mode = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.mode
+heAU.TachyProkatalave.notmetered = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.notmetered
+heAU.TachyProkatalave.name = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.name
+heAU.TachyProkatalave.incipit = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.incipit
+heAU.TachyProkatalave.text = he.a.m4_en_US_goadedes.heAU.TachyProkatalave.text
