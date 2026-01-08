@@ -64,9 +64,9 @@ meSV.Aposticha3.incipit = me.m12.d05_en_US_oca.meSV.Aposticha3.incipit
 meSV.Aposticha3.text = me.m12.d05_en_US_oca.meSV.Aposticha3.text
 
 meSV.AposGlory.mode = me.m12.d05_en_US_dedes.meSV.AposGlory.mode
-meSV.AposGlory.melody = me.m12.d05_en_US_oca.meSV.AposGlory.melody
-meSV.AposGlory.incipit = me.m12.d05_en_US_oca.meSV.AposGlory.incipit
-meSV.AposGlory.text = me.m12.d05_en_US_oca.meSV.AposGlory.text
+meSV.AposGlory.melody = me.m12.d05_en_US_dedes.meSV.AposGlory.melody
+meSV.AposGlory.incipit = me.m12.d05_en_US_dedes.meSV.AposGlory.incipit
+meSV.AposGlory.text = me.m12.d05_en_US_dedes.meSV.AposGlory.text
 
 meVE.Stichera01.mode = me.m12.d05_en_US_goadedes.meVE.Stichera01.mode
 meVE.Stichera01.greekmelody = me.m12.d05_en_US_goadedes.meVE.Stichera01.greekmelody
